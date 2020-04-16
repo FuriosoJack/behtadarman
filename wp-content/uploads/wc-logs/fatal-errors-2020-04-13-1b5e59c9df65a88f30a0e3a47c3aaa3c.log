@@ -1,0 +1,55 @@
+2020-04-13T12:27:36+00:00 CRITICAL Uncaught Error: Class 'WPSEO_Configuration_Storage' not found in /var/www/behtadarman/wp-content/plugins/wordpress-seo-premium/admin/config-ui/class-configuration-service.php:67
+Stack trace:
+#0 /var/www/behtadarman/wp-content/plugins/wordpress-seo-premium/admin/config-ui/class-configuration-service.php(59): WPSEO_Configuration_Service->set_default_providers()
+#1 /var/www/behtadarman/wp-content/plugins/wordpress-seo-premium/wp-seo-main.php(357): WPSEO_Configuration_Service->initialize()
+#2 /var/www/behtadarman/wp-includes/class-wp-hook.php(287): wpseo_init_rest_api(Object(WP_REST_Server))
+#3 /var/www/behtadarman/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/behtadarman/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /var/www/behtadarman/wp-includes/rest-api.php(473): do_action('rest_api_init', Object(WP_REST_Server))
+#6 /var/www/behtadarman/wp-includes/rest-api.php(299): rest_get_server()
+#7 /var/www/behtadarman/wp-includes/class-wp-hook.php(287): rest_api_loaded در /var/www/behtadarman/wp-content/plugins/wordpress-seo-premium/admin/config-ui/class-configuration-service.php روی خط 67
+
+2020-04-13T12:27:41+00:00 CRITICAL Uncaught Error: Class 'WPSEO_Configuration_Storage' not found in /var/www/behtadarman/wp-content/plugins/wordpress-seo-premium/admin/config-ui/class-configuration-service.php:67
+Stack trace:
+#0 /var/www/behtadarman/wp-content/plugins/wordpress-seo-premium/admin/config-ui/class-configuration-service.php(59): WPSEO_Configuration_Service->set_default_providers()
+#1 /var/www/behtadarman/wp-content/plugins/wordpress-seo-premium/wp-seo-main.php(357): WPSEO_Configuration_Service->initialize()
+#2 /var/www/behtadarman/wp-includes/class-wp-hook.php(287): wpseo_init_rest_api(Object(WP_REST_Server))
+#3 /var/www/behtadarman/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/behtadarman/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /var/www/behtadarman/wp-includes/rest-api.php(473): do_action('rest_api_init', Object(WP_REST_Server))
+#6 /var/www/behtadarman/wp-includes/rest-api.php(299): rest_get_server()
+#7 /var/www/behtadarman/wp-includes/class-wp-hook.php(287): rest_api_loaded در /var/www/behtadarman/wp-content/plugins/wordpress-seo-premium/admin/config-ui/class-configuration-service.php روی خط 67
+
+2020-04-13T12:27:47+00:00 CRITICAL Uncaught Error: Class 'WPSEO_Configuration_Storage' not found in /var/www/behtadarman/wp-content/plugins/wordpress-seo-premium/admin/config-ui/class-configuration-service.php:67
+Stack trace:
+#0 /var/www/behtadarman/wp-content/plugins/wordpress-seo-premium/admin/config-ui/class-configuration-service.php(59): WPSEO_Configuration_Service->set_default_providers()
+#1 /var/www/behtadarman/wp-content/plugins/wordpress-seo-premium/wp-seo-main.php(357): WPSEO_Configuration_Service->initialize()
+#2 /var/www/behtadarman/wp-includes/class-wp-hook.php(287): wpseo_init_rest_api(Object(WP_REST_Server))
+#3 /var/www/behtadarman/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/behtadarman/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /var/www/behtadarman/wp-includes/rest-api.php(473): do_action('rest_api_init', Object(WP_REST_Server))
+#6 /var/www/behtadarman/wp-includes/rest-api.php(299): rest_get_server()
+#7 /var/www/behtadarman/wp-includes/class-wp-hook.php(287): rest_api_loaded در /var/www/behtadarman/wp-content/plugins/wordpress-seo-premium/admin/config-ui/class-configuration-service.php روی خط 67
+
+2020-04-13T12:33:18+00:00 CRITICAL Uncaught Error: Class 'WPSEO_Configuration_Storage' not found in /var/www/behtadarman/wp-content/plugins/wordpress-seo-premium/admin/config-ui/class-configuration-service.php:67
+Stack trace:
+#0 /var/www/behtadarman/wp-content/plugins/wordpress-seo-premium/admin/config-ui/class-configuration-service.php(59): WPSEO_Configuration_Service->set_default_providers()
+#1 /var/www/behtadarman/wp-content/plugins/wordpress-seo-premium/wp-seo-main.php(357): WPSEO_Configuration_Service->initialize()
+#2 /var/www/behtadarman/wp-includes/class-wp-hook.php(287): wpseo_init_rest_api(Object(WP_REST_Server))
+#3 /var/www/behtadarman/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/behtadarman/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /var/www/behtadarman/wp-includes/rest-api.php(473): do_action('rest_api_init', Object(WP_REST_Server))
+#6 /var/www/behtadarman/wp-includes/rest-api.php(299): rest_get_server()
+#7 /var/www/behtadarman/wp-includes/class-wp-hook.php(287): rest_api_loaded در /var/www/behtadarman/wp-content/plugins/wordpress-seo-premium/admin/config-ui/class-configuration-service.php روی خط 67
+
+2020-04-13T12:49:49+00:00 CRITICAL Uncaught Error: Class 'WPSEO_Configuration_Storage' not found in /var/www/behtadarman/wp-content/plugins/wordpress-seo-premium/admin/config-ui/class-configuration-service.php:67
+Stack trace:
+#0 /var/www/behtadarman/wp-content/plugins/wordpress-seo-premium/admin/config-ui/class-configuration-service.php(59): WPSEO_Configuration_Service->set_default_providers()
+#1 /var/www/behtadarman/wp-content/plugins/wordpress-seo-premium/wp-seo-main.php(357): WPSEO_Configuration_Service->initialize()
+#2 /var/www/behtadarman/wp-includes/class-wp-hook.php(287): wpseo_init_rest_api(Object(WP_REST_Server))
+#3 /var/www/behtadarman/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/behtadarman/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /var/www/behtadarman/wp-includes/rest-api.php(473): do_action('rest_api_init', Object(WP_REST_Server))
+#6 /var/www/behtadarman/wp-includes/rest-api.php(299): rest_get_server()
+#7 /var/www/behtadarman/wp-includes/class-wp-hook.php(287): rest_api_loaded در /var/www/behtadarman/wp-content/plugins/wordpress-seo-premium/admin/config-ui/class-configuration-service.php روی خط 67
+

@@ -1,0 +1,73 @@
+<?php
+
+namespace Aws\WorkLink;
+
+use Aws\AwsClient;
+use Aws\Result;
+use GuzzleHttp\Promise\Promise;
+
+/**
+ * This client is used to interact with the **Amazon WorkLink** service.
+ * @method Result associateDomain( array $args = [] )
+ * @method Promise associateDomainAsync( array $args = [] )
+ * @method Result associateWebsiteAuthorizationProvider( array $args = [] )
+ * @method Promise associateWebsiteAuthorizationProviderAsync( array $args = [] )
+ * @method Result associateWebsiteCertificateAuthority( array $args = [] )
+ * @method Promise associateWebsiteCertificateAuthorityAsync( array $args = [] )
+ * @method Result createFleet( array $args = [] )
+ * @method Promise createFleetAsync( array $args = [] )
+ * @method Result deleteFleet( array $args = [] )
+ * @method Promise deleteFleetAsync( array $args = [] )
+ * @method Result describeAuditStreamConfiguration( array $args = [] )
+ * @method Promise describeAuditStreamConfigurationAsync( array $args = [] )
+ * @method Result describeCompanyNetworkConfiguration( array $args = [] )
+ * @method Promise describeCompanyNetworkConfigurationAsync( array $args = [] )
+ * @method Result describeDevice( array $args = [] )
+ * @method Promise describeDeviceAsync( array $args = [] )
+ * @method Result describeDevicePolicyConfiguration( array $args = [] )
+ * @method Promise describeDevicePolicyConfigurationAsync( array $args = [] )
+ * @method Result describeDomain( array $args = [] )
+ * @method Promise describeDomainAsync( array $args = [] )
+ * @method Result describeFleetMetadata( array $args = [] )
+ * @method Promise describeFleetMetadataAsync( array $args = [] )
+ * @method Result describeIdentityProviderConfiguration( array $args = [] )
+ * @method Promise describeIdentityProviderConfigurationAsync( array $args = [] )
+ * @method Result describeWebsiteCertificateAuthority( array $args = [] )
+ * @method Promise describeWebsiteCertificateAuthorityAsync( array $args = [] )
+ * @method Result disassociateDomain( array $args = [] )
+ * @method Promise disassociateDomainAsync( array $args = [] )
+ * @method Result disassociateWebsiteAuthorizationProvider( array $args = [] )
+ * @method Promise disassociateWebsiteAuthorizationProviderAsync( array $args = [] )
+ * @method Result disassociateWebsiteCertificateAuthority( array $args = [] )
+ * @method Promise disassociateWebsiteCertificateAuthorityAsync( array $args = [] )
+ * @method Result listDevices( array $args = [] )
+ * @method Promise listDevicesAsync( array $args = [] )
+ * @method Result listDomains( array $args = [] )
+ * @method Promise listDomainsAsync( array $args = [] )
+ * @method Result listFleets( array $args = [] )
+ * @method Promise listFleetsAsync( array $args = [] )
+ * @method Result listWebsiteAuthorizationProviders( array $args = [] )
+ * @method Promise listWebsiteAuthorizationProvidersAsync( array $args = [] )
+ * @method Result listWebsiteCertificateAuthorities( array $args = [] )
+ * @method Promise listWebsiteCertificateAuthoritiesAsync( array $args = [] )
+ * @method Result restoreDomainAccess( array $args = [] )
+ * @method Promise restoreDomainAccessAsync( array $args = [] )
+ * @method Result revokeDomainAccess( array $args = [] )
+ * @method Promise revokeDomainAccessAsync( array $args = [] )
+ * @method Result signOutUser( array $args = [] )
+ * @method Promise signOutUserAsync( array $args = [] )
+ * @method Result updateAuditStreamConfiguration( array $args = [] )
+ * @method Promise updateAuditStreamConfigurationAsync( array $args = [] )
+ * @method Result updateCompanyNetworkConfiguration( array $args = [] )
+ * @method Promise updateCompanyNetworkConfigurationAsync( array $args = [] )
+ * @method Result updateDevicePolicyConfiguration( array $args = [] )
+ * @method Promise updateDevicePolicyConfigurationAsync( array $args = [] )
+ * @method Result updateDomainMetadata( array $args = [] )
+ * @method Promise updateDomainMetadataAsync( array $args = [] )
+ * @method Result updateFleetMetadata( array $args = [] )
+ * @method Promise updateFleetMetadataAsync( array $args = [] )
+ * @method Result updateIdentityProviderConfiguration( array $args = [] )
+ * @method Promise updateIdentityProviderConfigurationAsync( array $args = [] )
+ */
+class WorkLinkClient extends AwsClient {
+}

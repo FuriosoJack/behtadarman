@@ -1,0 +1,20 @@
+2020-01-29T19:30:43+00:00 CRITICAL Uncaught Error: Call to undefined function YITH_WCWL() in /home/ariawp/preview2.ariawp.com/wp-content/plugins/et-core-plugin/app/models/customizer/theme-options/global/callbacks.php:1015
+Stack trace:
+#0 /home/ariawp/preview2.ariawp.com/wp-includes/customize/class-wp-customize-partial.php(203): header_wishlist_callback(Object(WP_Customize_Partial), NULL)
+#1 /home/ariawp/preview2.ariawp.com/wp-includes/customize/class-wp-customize-selective-refresh.php(384): WP_Customize_Partial->render(NULL)
+#2 /home/ariawp/preview2.ariawp.com/wp-includes/class-wp-hook.php(288): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/ariawp/preview2.ariawp.com/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#4 /home/ariawp/preview2.ariawp.com/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/ariawp/preview2.ariawp.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#6 /home/ariawp/preview2.ariawp.com/wp-blog-header.php(19): require_once('/home/ariaw در /home/ariawp/preview2.ariawp.com/wp-content/plugins/et-core-plugin/app/models/customizer/theme-options/global/callbacks.php روی خط 1015
+
+2020-01-29T19:31:03+00:00 CRITICAL Uncaught Error: Call to undefined function YITH_WCWL() in /home/ariawp/preview2.ariawp.com/wp-content/plugins/et-core-plugin/app/models/customizer/theme-options/global/callbacks.php:1015
+Stack trace:
+#0 /home/ariawp/preview2.ariawp.com/wp-includes/customize/class-wp-customize-partial.php(203): header_wishlist_callback(Object(WP_Customize_Partial), NULL)
+#1 /home/ariawp/preview2.ariawp.com/wp-includes/customize/class-wp-customize-selective-refresh.php(384): WP_Customize_Partial->render(NULL)
+#2 /home/ariawp/preview2.ariawp.com/wp-includes/class-wp-hook.php(288): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#3 /home/ariawp/preview2.ariawp.com/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#4 /home/ariawp/preview2.ariawp.com/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/ariawp/preview2.ariawp.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#6 /home/ariawp/preview2.ariawp.com/wp-blog-header.php(19): require_once('/home/ariaw در /home/ariawp/preview2.ariawp.com/wp-content/plugins/et-core-plugin/app/models/customizer/theme-options/global/callbacks.php روی خط 1015
+

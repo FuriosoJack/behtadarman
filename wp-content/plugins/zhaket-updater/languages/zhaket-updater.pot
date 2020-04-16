@@ -1,0 +1,3069 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Zhaket Updater\n"
+"POT-Creation-Date: 2019-05-25 00:35+0430\n"
+"PO-Revision-Date: 2019-05-25 00:28+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: zhaket-update.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: .git\n"
+"X-Poedit-SearchPathExcluded-2: .idea\n"
+"X-Poedit-SearchPathExcluded-3: inc/options\n"
+
+#: inc/options/core/enqueue.php:452
+#: inc/options/inc/extensions/customizer/extension_customizer.php:689
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: inc/options/core/enqueue.php:460
+#: inc/options/inc/extensions/customizer/extension_customizer.php:690
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: inc/options/core/enqueue.php:468
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: inc/options/core/enqueue.php:476
+#: inc/options/inc/extensions/customizer/extension_customizer.php:691
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: inc/options/core/enqueue.php:484
+msgid ""
+"Your current options will be replaced with the values of this import. Would "
+"you like to proceed?"
+msgstr ""
+
+#: inc/options/core/enqueue.php:493
+msgid "Please Wait"
+msgstr ""
+
+#: inc/options/core/enqueue.php:504
+msgid "There was an error saving. Here is the result of your action:"
+msgstr ""
+
+#: inc/options/core/enqueue.php:505
+msgid ""
+"There was a problem with your action. Please try again or reload the page."
+msgstr ""
+
+#: inc/options/core/panel.php:65
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: inc/options/core/panel.php:141
+msgid "Settings Imported!"
+msgstr ""
+
+#: inc/options/core/panel.php:156
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: inc/options/core/panel.php:170
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: inc/options/core/panel.php:184
+msgid "Settings Saved!"
+msgstr ""
+
+#: inc/options/core/panel.php:204
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: inc/options/core/panel.php:212
+msgid "error(s) were found!"
+msgstr ""
+
+#: inc/options/core/panel.php:220
+msgid "warning(s) were found!"
+msgstr ""
+
+#: inc/options/core/panel.php:312
+msgid ""
+"<strong>Your panel has bundled outdated copies of Redux Framework template "
+"files</strong> &#8211; if you encounter functionality issues this could be "
+"the reason. Ensure you update or remove them."
+msgstr ""
+
+#: inc/options/framework.php:221
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: inc/options/framework.php:221 inc/options/inc/welcome/welcome.php:203
+msgid "Redux Framework"
+msgstr ""
+
+#: inc/options/framework.php:225 inc/options/framework.php:229
+msgid "Options"
+msgstr ""
+
+#: inc/options/framework.php:1746
+msgid "Enable"
+msgstr ""
+
+#: inc/options/framework.php:1751
+msgid "Disable"
+msgstr ""
+
+#: inc/options/framework.php:1757
+msgid "moving the mouse over"
+msgstr ""
+
+#: inc/options/framework.php:1759
+msgid "clicking"
+msgstr ""
+
+#: inc/options/framework.php:1763
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+msgstr ""
+
+#: inc/options/framework.php:1768
+msgid "Hints"
+msgstr ""
+
+#: inc/options/framework.php:1895
+msgid "Default"
+msgstr ""
+
+#: inc/options/framework.php:2775
+msgid "Invalid security credential.  Please reload the page and try again."
+msgstr ""
+
+#: inc/options/framework.php:2784
+msgid "Invalid user capability.  Please reload the page and try again."
+msgstr ""
+
+#: inc/options/framework.php:2864
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: inc/options/framework.php:3984
+msgid ""
+"<strong>Redux Framework Notice: </strong>There are references to the Redux "
+"Framework support site in your config's <code>admin_bar_links</code> "
+"argument.  This is sample data.  Please change or remove this data before "
+"shipping your product."
+msgstr ""
+
+#: inc/options/framework.php:4000
+msgid ""
+"<strong>Redux Framework Notice: </strong>There are references to the Redux "
+"Framework support site in your config's <code>share_icons</code> argument.  "
+"This is sample data.  Please change or remove this data before shipping your "
+"product."
+msgstr ""
+
+#: inc/options/inc/class.redux_admin_notices.php:111
+msgid "Dismiss"
+msgstr ""
+
+#: inc/options/inc/class.redux_cdn.php:74
+msgid ""
+"Please wait a few minutes, then try refreshing the page. Unable to load some "
+"remotely hosted scripts."
+msgstr ""
+
+#: inc/options/inc/class.redux_cdn.php:76
+#, php-format
+msgid ""
+"If you are developing offline, please download and install the <a href=\"%s"
+"\" target=\"_blank\">Redux Vendor Support</a> plugin/extension to bypass the "
+"our CDN and avoid this warning"
+msgstr ""
+
+#: inc/options/inc/class.redux_cdn.php:79
+msgid "Redux Framework Warning"
+msgstr ""
+
+#: inc/options/inc/class.redux_cdn.php:79
+#, php-format
+msgid "%s CDN unavailable.  Some controls may not render properly."
+msgstr ""
+
+#: inc/options/inc/class.redux_cdn.php:115
+#, php-format
+msgid ""
+"The <a href=\"%s\">Vendor Support plugin</a> (or extension) is either not "
+"installed or not activated and thus, some controls may not render properly.  "
+"Please ensure that it is installed and <a href=\"%s\">activated</a>"
+msgstr ""
+
+#: inc/options/inc/class.redux_filesystem.php:50
+#: inc/options/inc/class.redux_filesystem.php:289
+msgid "File Permission Issues"
+msgstr ""
+
+#: inc/options/inc/class.redux_filesystem.php:50
+#: inc/options/inc/class.redux_filesystem.php:289
+#, php-format
+msgid ""
+"We were unable to modify required files. Please ensure that <code>%1s</code> "
+"has the proper read-write permissions, or modify your wp-config.php file to "
+"contain your FTP login credentials as <a href=\"%2s\" target=\"_blank"
+"\">outlined here</a>."
+msgstr ""
+
+#: inc/options/inc/class.redux_helpers.php:622
+#, php-format
+msgid ""
+"<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
+"date. The core version is %s"
+msgstr ""
+
+#: inc/options/inc/extensions/customizer/extension_customizer.php:724
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: inc/options/inc/extensions/customizer/extension_customizer.php:725
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: inc/options/inc/extensions/customizer/extension_customizer.php:726
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: inc/options/inc/extensions/customizer/inc/customizer_panel.php:89
+msgid "Press return or enter to open this panel"
+msgstr ""
+
+#: inc/options/inc/extensions/customizer/inc/customizer_panel.php:114
+#: inc/options/inc/extensions/customizer/inc/customizer_panel.php:142
+#, php-format
+msgid "You are customizing %s"
+msgstr ""
+
+#: inc/options/inc/extensions/customizer/inc/customizer_panel.php:138
+#: inc/options/inc/extensions/customizer/inc/customizer_section.php:79
+msgid "Back"
+msgstr ""
+
+#: inc/options/inc/extensions/customizer/inc/customizer_panel.php:146
+msgid "Help"
+msgstr ""
+
+#: inc/options/inc/extensions/customizer/inc/customizer_section.php:72
+msgid "Press return or enter to open"
+msgstr ""
+
+#: inc/options/inc/extensions/customizer/inc/customizer_section.php:122
+msgid "Press return or enter to expand"
+msgstr ""
+
+#: inc/options/inc/extensions/import_export/extension_import_export.php:120
+msgid "Import / Export"
+msgstr ""
+
+#: inc/options/inc/extensions/import_export/import_export/field_import_export.php:91
+msgid "Import Options"
+msgstr ""
+
+#: inc/options/inc/extensions/import_export/import_export/field_import_export.php:95
+msgid "Import from File"
+msgstr ""
+
+#: inc/options/inc/extensions/import_export/import_export/field_import_export.php:98
+msgid "Import from URL"
+msgstr ""
+
+#: inc/options/inc/extensions/import_export/import_export/field_import_export.php:104
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: inc/options/inc/extensions/import_export/import_export/field_import_export.php:111
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: inc/options/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid "Import"
+msgstr ""
+
+#: inc/options/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: inc/options/inc/extensions/import_export/import_export/field_import_export.php:120
+msgid "Export Options"
+msgstr ""
+
+#: inc/options/inc/extensions/import_export/import_export/field_import_export.php:124
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: inc/options/inc/extensions/import_export/import_export/field_import_export.php:132
+msgid "Copy Data"
+msgstr ""
+
+#: inc/options/inc/extensions/import_export/import_export/field_import_export.php:133
+msgid "Download Data File"
+msgstr ""
+
+#: inc/options/inc/extensions/import_export/import_export/field_import_export.php:134
+msgid "Copy Export URL"
+msgstr ""
+
+#: inc/options/inc/extensions/options_object/extension_options_object.php:82
+#: inc/options/inc/extensions/options_object/options_object/field_options_object.php:104
+msgid "Options Object"
+msgstr ""
+
+#: inc/options/inc/extensions/options_object/options_object/field_options_object.php:107
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: inc/options/inc/fields/background/field_background.php:124
+#: inc/options/inc/fields/color/field_color.php:73
+#: inc/options/inc/fields/color_gradient/field_color_gradient.php:79
+#: inc/options/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr ""
+
+#: inc/options/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/options/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: inc/options/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: inc/options/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: inc/options/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: inc/options/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: inc/options/inc/fields/background/field_background.php:277
+#: inc/options/inc/fields/media/field_media.php:153
+msgid "No media selected"
+msgstr ""
+
+#: inc/options/inc/fields/background/field_background.php:314
+#: inc/options/inc/fields/media/field_media.php:206
+#: inc/options/inc/fields/slides/field_slides.php:126
+#: inc/options/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: inc/options/inc/fields/background/field_background.php:321
+#: inc/options/inc/fields/media/field_media.php:213
+#: inc/options/inc/fields/multi_text/field_multi_text.php:72
+#: inc/options/inc/fields/multi_text/field_multi_text.php:79
+#: inc/options/inc/fields/multi_text/field_multi_text.php:89
+#: inc/options/inc/fields/slides/field_slides.php:133
+#: inc/options/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr ""
+
+#: inc/options/inc/fields/border/field_border.php:125
+#: inc/options/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr ""
+
+#: inc/options/inc/fields/border/field_border.php:138
+#: inc/options/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: inc/options/inc/fields/border/field_border.php:145
+#: inc/options/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr ""
+
+#: inc/options/inc/fields/border/field_border.php:152
+#: inc/options/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: inc/options/inc/fields/border/field_border.php:159
+#: inc/options/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr ""
+
+#: inc/options/inc/fields/border/field_border.php:174
+msgid "Border style"
+msgstr ""
+
+#: inc/options/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: inc/options/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: inc/options/inc/fields/color_rgba/field_color_rgba.php:71
+msgid "Choose"
+msgstr ""
+
+#: inc/options/inc/fields/color_rgba/field_color_rgba.php:72
+msgid "Cancel"
+msgstr ""
+
+#: inc/options/inc/fields/color_rgba/field_color_rgba.php:74
+msgid "Select Color"
+msgstr ""
+
+#: inc/options/inc/fields/dimensions/field_dimensions.php:156
+msgid "Width"
+msgstr ""
+
+#: inc/options/inc/fields/dimensions/field_dimensions.php:172
+#: inc/options/inc/fields/typography/field_typography.php:442
+msgid "Height"
+msgstr ""
+
+#: inc/options/inc/fields/dimensions/field_dimensions.php:183
+#: inc/options/inc/fields/dimensions/field_dimensions.php:184
+#: inc/options/inc/fields/spacing/field_spacing.php:245
+#: inc/options/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: inc/options/inc/fields/gallery/field_gallery.php:73
+#: inc/options/simple.php:750
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: inc/options/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: inc/options/inc/fields/link_color/field_link_color.php:90
+msgid "Regular"
+msgstr ""
+
+#: inc/options/inc/fields/link_color/field_link_color.php:94
+msgid "Hover"
+msgstr ""
+
+#: inc/options/inc/fields/link_color/field_link_color.php:98
+msgid "Visited"
+msgstr ""
+
+#: inc/options/inc/fields/link_color/field_link_color.php:102
+msgid "Active"
+msgstr ""
+
+#: inc/options/inc/fields/link_color/field_link_color.php:106
+msgid "Focus"
+msgstr ""
+
+#: inc/options/inc/fields/multi_text/field_multi_text.php:62
+msgid "Add More"
+msgstr ""
+
+#: inc/options/inc/fields/password/field_password.php:62
+#: inc/options/simple.php:302
+msgid "Password"
+msgstr ""
+
+#: inc/options/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr ""
+
+#: inc/options/inc/fields/select/field_select.php:83
+#: inc/options/inc/fields/select_image/field_select_image.php:54
+msgid "Select an item"
+msgstr ""
+
+#: inc/options/inc/fields/select/field_select.php:134
+#: inc/options/inc/fields/select_image/field_select_image.php:134
+msgid "No items of this type were found."
+msgstr ""
+
+#: inc/options/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: inc/options/inc/fields/slides/field_slides.php:73
+#: inc/options/inc/fields/slides/field_slides.php:174
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: inc/options/inc/fields/slides/field_slides.php:145
+#: inc/options/inc/fields/slides/field_slides.php:200
+msgid "Title"
+msgstr ""
+
+#: inc/options/inc/fields/slides/field_slides.php:149
+#: inc/options/inc/fields/slides/field_slides.php:204
+#: inc/options/simple.php:1697 inc/options/simple.php:1706
+msgid "Description"
+msgstr ""
+
+#: inc/options/inc/fields/slides/field_slides.php:153
+#: inc/options/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: inc/options/inc/fields/slides/field_slides.php:167
+#: inc/options/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr ""
+
+#: inc/options/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: inc/options/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: inc/options/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: inc/options/inc/fields/typography/field_typography.php:231
+msgid "Font Family"
+msgstr ""
+
+#: inc/options/inc/fields/typography/field_typography.php:232
+msgid "Font family"
+msgstr ""
+
+#: inc/options/inc/fields/typography/field_typography.php:258
+#: inc/options/inc/fields/typography/field_typography.php:259
+msgid "Backup Font Family"
+msgstr ""
+
+#: inc/options/inc/fields/typography/field_typography.php:273
+#: inc/options/inc/fields/typography/field_typography.php:281
+msgid "Font style"
+msgstr ""
+
+#: inc/options/inc/fields/typography/field_typography.php:274
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: inc/options/inc/fields/typography/field_typography.php:281
+msgid "Style"
+msgstr ""
+
+#: inc/options/inc/fields/typography/field_typography.php:321
+msgid "Font subsets"
+msgstr ""
+
+#: inc/options/inc/fields/typography/field_typography.php:323
+msgid "Font Subsets"
+msgstr ""
+
+#: inc/options/inc/fields/typography/field_typography.php:325
+msgid "Subsets"
+msgstr ""
+
+#: inc/options/inc/fields/typography/field_typography.php:325
+msgid "Font script"
+msgstr ""
+
+#: inc/options/inc/fields/typography/field_typography.php:342
+#: inc/options/inc/fields/typography/field_typography.php:343
+#: inc/options/inc/fields/typography/field_typography.php:344
+msgid "Text Align"
+msgstr ""
+
+#: inc/options/inc/fields/typography/field_typography.php:365
+#: inc/options/inc/fields/typography/field_typography.php:366
+#: inc/options/inc/fields/typography/field_typography.php:367
+msgid "Text Transform"
+msgstr ""
+
+#: inc/options/inc/fields/typography/field_typography.php:388
+#: inc/options/inc/fields/typography/field_typography.php:389
+#: inc/options/inc/fields/typography/field_typography.php:390
+msgid "Font Variant"
+msgstr ""
+
+#: inc/options/inc/fields/typography/field_typography.php:408
+#: inc/options/inc/fields/typography/field_typography.php:409
+#: inc/options/inc/fields/typography/field_typography.php:410
+msgid "Text Decoration"
+msgstr ""
+
+#: inc/options/inc/fields/typography/field_typography.php:432
+#: inc/options/inc/fields/typography/field_typography.php:433
+msgid "Font Size"
+msgstr ""
+
+#: inc/options/inc/fields/typography/field_typography.php:433
+msgid "Size"
+msgstr ""
+
+#: inc/options/inc/fields/typography/field_typography.php:441
+#: inc/options/inc/fields/typography/field_typography.php:442
+msgid "Line Height"
+msgstr ""
+
+#: inc/options/inc/fields/typography/field_typography.php:450
+#: inc/options/inc/fields/typography/field_typography.php:451
+msgid "Word Spacing"
+msgstr ""
+
+#: inc/options/inc/fields/typography/field_typography.php:459
+#: inc/options/inc/fields/typography/field_typography.php:460
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/options/inc/fields/typography/field_typography.php:478
+msgid "Font Color"
+msgstr ""
+
+#: inc/options/inc/fields/typography/field_typography.php:480
+msgid "Font color"
+msgstr ""
+
+#: inc/options/inc/fields/typography/field_typography.php:913
+msgid "Standard Fonts"
+msgstr ""
+
+#: inc/options/inc/fields/typography/field_typography.php:1014
+msgid "Google Webfonts"
+msgstr ""
+
+#: inc/options/inc/themecheck/checks/embedded.php:15
+#, php-format
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: If you are "
+"submitting to WordPress.org Theme Repository, it is <strong>strongly</"
+"strong> suggested that you read <a href=\"%s\" target=\"_blank\">this "
+"document</a>, or your theme will be rejected because of Redux."
+msgstr ""
+
+#: inc/options/inc/themecheck/checks/embedded.php:24
+#, php-format
+msgid ""
+"<span class=\"tc-lead tc-required\">REQUIRED</span>: You MUST delete "
+"<strong> %s </strong>, or your theme will be rejected by WP.org theme "
+"submission because of Redux."
+msgstr ""
+
+#: inc/options/inc/themecheck/checks/embedded.php:38
+msgid "Optional"
+msgstr ""
+
+#: inc/options/inc/themecheck/checks/embedded.php:40
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: The following "
+"arguments MUST be used for WP.org submissions, or you will be rejected "
+"because of your Redux configuration."
+msgstr ""
+
+#: inc/options/inc/themecheck/checks/full_package.php:16
+msgid "Redux localization utilities"
+msgstr ""
+
+#: inc/options/inc/themecheck/checks/full_package.php:17
+msgid "Redux Resting Diles"
+msgstr ""
+
+#: inc/options/inc/themecheck/checks/full_package.php:18
+msgid "Redux Code Styles"
+msgstr ""
+
+#: inc/options/inc/themecheck/checks/full_package.php:19
+msgid "Redux Unit Testing"
+msgstr ""
+
+#: inc/options/inc/themecheck/checks/full_package.php:20
+msgid "Redux Plugin File"
+msgstr ""
+
+#: inc/options/inc/themecheck/checks/full_package.php:21
+msgid "Redux Boostrap Tests"
+msgstr ""
+
+#: inc/options/inc/themecheck/checks/full_package.php:22
+msgid "CI Testing FIle"
+msgstr ""
+
+#: inc/options/inc/themecheck/checks/full_package.php:23
+msgid "PHP Unit Testing"
+msgstr ""
+
+#: inc/options/inc/themecheck/checks/full_package.php:36
+msgid ""
+"It appears that you have embedded the full Redux package inside your theme. "
+"You need only embed the <strong>ReduxCore</strong> folder. Embedding "
+"anything else will get your rejected from theme submission. Suspected Redux "
+"package file(s):"
+msgstr ""
+
+#: inc/options/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: inc/options/inc/tracking.php:130
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+
+#: inc/options/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr ""
+
+#: inc/options/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr ""
+
+#: inc/options/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: inc/options/inc/tracking.php:152
+msgid "Getting Started"
+msgstr ""
+
+#: inc/options/inc/tracking.php:152
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: inc/options/inc/tracking.php:152
+msgid "our documentation"
+msgstr ""
+
+#: inc/options/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr ""
+
+#: inc/options/inc/tracking.php:153
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: inc/options/inc/tracking.php:154 inc/options/inc/welcome/welcome.php:227
+msgid "Redux Extensions"
+msgstr ""
+
+#: inc/options/inc/tracking.php:154
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: inc/options/inc/tracking.php:154
+msgid "extensions directory"
+msgstr ""
+
+#: inc/options/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr ""
+
+#: inc/options/inc/tracking.php:155
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: inc/options/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: inc/options/inc/tracking.php:155
+msgid "donation"
+msgstr ""
+
+#: inc/options/inc/tracking.php:156
+msgid "Newsletter"
+msgstr ""
+
+#: inc/options/inc/tracking.php:156
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: inc/options/inc/tracking.php:159
+msgid "Email Address"
+msgstr ""
+
+#: inc/options/inc/tracking.php:163
+msgid "Subscribe"
+msgstr ""
+
+#: inc/options/inc/tracking.php:175
+msgid "Close"
+msgstr ""
+
+#: inc/options/inc/validation/color/validation_color.php:15
+#: inc/options/inc/validation/color_rgba/validation_color_rgba.php:14
+#: inc/options/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: inc/options/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: inc/options/inc/validation/css/validation_css.php:39
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: inc/options/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: inc/options/inc/validation/email/validation_email.php:16
+#: inc/options/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: inc/options/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: inc/options/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: inc/options/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: inc/options/inc/validation/numeric/validation_numeric.php:16
+#: inc/options/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: inc/options/inc/validation/unique_slug/validation_unique_slug.php:16
+#, php-format
+msgid ""
+"That URL slug is in use, please choose another. <code>%s</code> is open for "
+"use."
+msgstr ""
+
+#: inc/options/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: inc/options/inc/welcome/views/about.php:2
+#, php-format
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: inc/options/inc/welcome/views/about.php:5
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is a huge "
+"step forward in Redux Development. Look at all that's new."
+msgstr ""
+
+#: inc/options/inc/welcome/views/about.php:8
+#: inc/options/inc/welcome/views/changelog.php:10
+#: inc/options/inc/welcome/views/credits.php:10
+#: inc/options/inc/welcome/views/extensions.php:81
+#: inc/options/inc/welcome/views/status_report.php:34
+#: inc/options/inc/welcome/views/support.php:8
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: inc/options/inc/welcome/views/about.php:15
+msgid "What is Redux Framework?"
+msgstr ""
+
+#: inc/options/inc/welcome/views/about.php:17
+msgid ""
+"Redux Framework is the core of many products on the web. It is an option "
+"framework which developers use to\n"
+"            enhance their products."
+msgstr ""
+
+#: inc/options/inc/welcome/views/about.php:22
+msgid "Learn More"
+msgstr ""
+
+#: inc/options/inc/welcome/views/about.php:28
+msgid "New in this Release"
+msgstr ""
+
+#: inc/options/inc/welcome/views/changelog.php:2
+msgid "Redux Framework - Changelog"
+msgstr ""
+
+#: inc/options/inc/welcome/views/changelog.php:5
+#: inc/options/inc/welcome/views/status_report.php:30
+msgid ""
+"Our core mantra at Redux is backwards compatibility. With hundreds of "
+"thousands of instances worldwide, you can be assured that we will take care "
+"of you and your clients."
+msgstr ""
+
+#: inc/options/inc/welcome/views/credits.php:2
+msgid "Redux Framework - A Community Effort"
+msgstr ""
+
+#: inc/options/inc/welcome/views/credits.php:5
+msgid ""
+"We recognize we are nothing without our community. We would like to thank "
+"all of those who help Redux to be what it is. Thank you for your involvement."
+msgstr ""
+
+#: inc/options/inc/welcome/views/credits.php:18
+#, php-format
+msgid ""
+"Redux is created by a community of developers world wide. Want to have your "
+"name listed too? <a href=\"%d\" target=\"_blank\">Contribute to Redux</a>."
+msgstr ""
+
+#: inc/options/inc/welcome/views/extensions.php:73
+msgid "Redux Framework - Extensions"
+msgstr ""
+
+#: inc/options/inc/welcome/views/extensions.php:76
+msgid ""
+"Supercharge your Redux experience. Our extensions provide you with features "
+"that will take your products to the next level."
+msgstr ""
+
+#: inc/options/inc/welcome/views/extensions.php:89
+msgid ""
+"While some are built specificially for developers, extensions such as Custom "
+"Fonts are sure to make any user happy."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:26
+msgid "Redux Framework - System Status"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:43
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:48
+msgid "Get System Report"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:53
+msgid "Understanding the Status Report"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:62
+msgid "Copied!"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:63
+msgid "Copy for Support"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:73
+msgid "WordPress Environment"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:80
+msgid "Home URL"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:83
+msgid "The URL of your site's homepage."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:89
+msgid "Site URL"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:92
+msgid "The root URL of your site."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:100
+msgid "Redux Version"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:103
+msgid "The version of Redux Framework installed on your site."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:111
+msgid "Redux Data Directory Writable"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:114
+msgid ""
+"Redux and its extensions write data to the <code>uploads</code> directory. "
+"This directory must be writable."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:120
+#, php-format
+msgid "To allow data saving, make <code>%s</code> writable."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:126
+msgid "WP Content URL"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:129
+msgid "The location of Wordpress's content URL."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:137
+msgid "WP Version"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:140
+msgid "The version of WordPress installed on your site."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:148
+msgid "WP Multisite"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:151
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:162
+msgid "Permalink Structure"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:165
+msgid ""
+"The current permalink structure as defined in Wordpress Settings->Permalinks."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:174
+msgid "Front Page Display"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:176
+msgid "The current Reading mode of Wordpress."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:185
+msgid "Front Page"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:188
+msgid "The currently selected page which acts as the site's Front Page."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:196
+msgid "Posts Page"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:199
+msgid "The currently selected page in where blog posts are displayed."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:210
+msgid "WP Memory Limit"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:213
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:220
+#, php-format
+msgid ""
+"%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" "
+"target=\"_blank\">Increasing memory allocated to PHP</a>"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:229
+msgid "Database Table Prefix"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:232
+msgid "The prefix structure of the current Wordpress database."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:240
+msgid "WP Debug Mode"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:243
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:255
+msgid "Language"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:258
+msgid "The current language used by WordPress. Default = English"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:270
+msgid "Browser"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:277
+msgid "Browser Info"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:280
+msgid "Information about web browser current in use."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:297
+msgid "Server Environment"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:304
+msgid "Server Info"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:307
+msgid "Information about the web server that is currently hosting your site."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:315
+msgid "Localhost Environment"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:318
+msgid "Is the server running in a localhost environment."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:332
+msgid "PHP Version"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:335
+msgid "The version of PHP installed on your hosting server."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:343
+msgid "ABSPATH"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:346
+msgid "The ABSPATH variable on the server."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:355
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:356
+#: inc/options/inc/welcome/views/status_report.php:361
+msgid "The largest filesize that can be contained in one post."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:360
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:365
+msgid "PHP Time Limit"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:366
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups)"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:370
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:371
+msgid ""
+"The maximum number of variables your server can use for a single function to "
+"avoid overloads."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:375
+msgid "PHP Display Errors"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:376
+msgid "Determines if PHP will display errors within the browser."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:387
+msgid "SUHOSIN Installed"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:388
+msgid ""
+"Suhosin is an advanced protection system for PHP installations. It was "
+"designed to protect your servers on the one hand against a number of well "
+"known problems in PHP applications and on the other hand against potential "
+"unknown vulnerabilities within these applications or the PHP core itself.  "
+"If enabled on your server, Suhosin may need to be configured to increase its "
+"data submission limits."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:399
+msgid "MySQL Version"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:400
+msgid "The version of MySQL installed on your hosting server."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:404
+msgid "Max Upload Size"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:405
+msgid ""
+"The largest filesize that can be uploaded to your WordPress installation."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:410
+msgid "Default Timezone is UTC"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:412
+msgid "The default timezone for your server."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:416
+#, php-format
+msgid "Default timezone is %s - it should be UTC"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:428
+msgid "Used when communicating with remote services with PHP."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:434
+msgid ""
+"Your server does not have fsockopen or cURL enabled - cURL is used to "
+"communicate with other servers. Please contact your hosting provider."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:473
+msgid "Remote Post"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:474
+msgid "Used to send data to remote servers."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:479
+msgid ""
+"wp_remote_post() failed. Many advanced features may not function. Contact "
+"your hosting provider."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:482
+#: inc/options/inc/welcome/views/status_report.php:497
+#, php-format
+msgid "Error: %s"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:489
+msgid "Remote Get"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:490
+msgid "Used to grab information from remote servers for updates updates."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:495
+msgid ""
+"wp_remote_get() failed. This is needed to get information from remote "
+"servers. Contact your hosting provider."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:531
+msgid "Active Plugins"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:546
+msgid "Visit plugin homepage"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:553
+#, php-format
+msgctxt "by author"
+msgid "by %s"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:572
+msgid "Redux Instance: "
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:579
+msgid "The opt_name argument for this instance of Redux."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:587
+msgid "The global_variable argument for this instance of Redux."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:595
+msgid "Indicates if developer mode is enabled for this instance of Redux."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:600
+msgid "Indicates if ajax based saving is enabled for this instance of Redux."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:605
+msgid ""
+"The page slug denotes the string used for the options panel page for this "
+"instance of Redux."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:610
+msgid ""
+"The page permissions variable sets the permission level required to access "
+"the options panel for this instance of Redux."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:615
+msgid ""
+"This variable set whether or not the menu is displayed as an admin menu item "
+"for this instance of Redux."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:620
+msgid ""
+"The page parent variable sets where the options menu will be placed on the "
+"WordPress admin sidebar for this instance of Redux."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:626
+msgid "Indicates if the compiler flag is enabled for this instance of Redux."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:631
+msgid ""
+"Indicates if output flag for globally shutting off all CSS output is enabled "
+"for this instance of Redux."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:636
+msgid ""
+"The output_tag variable sets whether or not dynamic CSS will be generated "
+"for the customizer and Google fonts for this instance of Redux."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:645
+msgid ""
+"The specified template path containing custom template files for this "
+"instance of Redux."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:650
+msgid "List of template files overriding the default Redux template files."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:676
+msgid "Indicates the installed Redux extensions and their version numbers."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:705
+msgid "Theme"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:710
+msgid "Name"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:711
+msgid "The name of the current active theme."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:715
+msgid "Version"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:716
+msgid "The installed version of the current active theme."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:722
+msgid "is available"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:728
+msgid "Author URL"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:729
+msgid "The theme developers URL."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:733
+msgid "Child Theme"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:734
+msgid "Displays whether or not the current theme is a child theme."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:737
+#, php-format
+msgid ""
+"If you're modifying Redux Framework or a parent theme you didn't build "
+"personally, we recommend using a child theme. See: <a href=\"%s\" target="
+"\"_blank\">How to create a child theme</a>"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:745
+msgid "Parent Theme Name"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:747
+msgid "The name of the parent theme."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:752
+msgid "Parent Theme Version"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:754
+msgid "The installed version of the parent theme."
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:759
+msgid "Parent Theme Author URL"
+msgstr ""
+
+#: inc/options/inc/welcome/views/status_report.php:761
+msgid "The parent theme developers URL."
+msgstr ""
+
+#: inc/options/inc/welcome/views/support.php:2
+msgid "Redux Framework - Support"
+msgstr ""
+
+#: inc/options/inc/welcome/views/support.php:4
+msgid ""
+"We are an open source project used by developers to make powerful control "
+"panels."
+msgstr ""
+
+#: inc/options/inc/welcome/views/support.php:19
+#: inc/options/inc/welcome/views/support.php:40
+msgid "Generate a Support URL"
+msgstr ""
+
+#: inc/options/inc/welcome/views/support.php:20
+msgid "Select Support Type"
+msgstr ""
+
+#: inc/options/inc/welcome/views/support.php:21
+#: inc/options/inc/welcome/views/support.php:87
+msgid "How to Get Support"
+msgstr ""
+
+#: inc/options/inc/welcome/views/support.php:27
+msgid "Submit a Support Request"
+msgstr ""
+
+#: inc/options/inc/welcome/views/support.php:31
+msgid "To get started, we will need to generate a support hash."
+msgstr ""
+
+#: inc/options/inc/welcome/views/support.php:35
+#, php-format
+msgid ""
+"This will provide to your developer all the information they may need to "
+"remedy your issue. This action WILL send information securely to a remote "
+"server. To see the type of information sent, please look at the  <a href=\"%s"
+"\">Status tab</a>."
+msgstr ""
+
+#: inc/options/inc/welcome/views/support.php:52
+msgid "Select Your Support Type"
+msgstr ""
+
+#: inc/options/inc/welcome/views/support.php:56
+msgid "What type of user are you?"
+msgstr ""
+
+#: inc/options/inc/welcome/views/support.php:63
+msgid "User"
+msgstr ""
+
+#: inc/options/inc/welcome/views/support.php:65
+msgid "I am a user, using a pre-built product."
+msgstr ""
+
+#: inc/options/inc/welcome/views/support.php:70
+msgid "Developer"
+msgstr ""
+
+#: inc/options/inc/welcome/views/support.php:72
+msgid "I am a developer, building a product using Redux."
+msgstr ""
+
+#: inc/options/inc/welcome/views/support.php:92
+msgid ""
+"Please proceed to the Redux Framework issue tracker and supply us with your "
+"support URL below. Please also provide any information that will help us to "
+"reproduce your issue."
+msgstr ""
+
+#: inc/options/inc/welcome/views/support.php:101
+msgid ""
+"Listed below are the Wordpress plugins and/or theme installed on your site "
+"that utilize Redux Framework. We do not directly support products created "
+"with our framework.  It is the responsibility of the plugin or theme "
+"developer to support their work. You will need to contact the author(s) of "
+"the products listed below with your support questions."
+msgstr ""
+
+#: inc/options/inc/welcome/views/support.php:105
+msgid ""
+"Please be sure to include for your developer - via cut and paste - the "
+"Support URL in the box below."
+msgstr ""
+
+#: inc/options/inc/welcome/views/support.php:134
+#, php-format
+msgid ""
+"Should the developer not be responsive, read the <a href=\"%s\" target="
+"\"_blank\">following article</a> before asking for support from us directly."
+msgstr ""
+
+#: inc/options/inc/welcome/welcome.php:104
+msgid ""
+"If you like <strong>Redux</strong> please leave us a <a href=\"https://"
+"wordpress.org/support/view/plugin-reviews/redux-framework?filter=5#postform"
+"\" target=\"_blank\" class=\"redux-rating-link\" data-rated="
+"\"Thanks :)\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating. A huge thank "
+"you from Redux in advance!"
+msgstr ""
+
+#: inc/options/inc/welcome/welcome.php:181
+msgid "Support hash could not be generated. Please try again later."
+msgstr ""
+
+#: inc/options/inc/welcome/welcome.php:203
+msgid "Welcome to Redux Framework"
+msgstr ""
+
+#: inc/options/inc/welcome/welcome.php:211
+msgid "Redux Framework Changelog"
+msgstr ""
+
+#: inc/options/inc/welcome/welcome.php:219
+msgid "Get Support"
+msgstr ""
+
+#: inc/options/inc/welcome/welcome.php:236
+msgid "The people that develop Redux Framework"
+msgstr ""
+
+#: inc/options/inc/welcome/welcome.php:244
+msgid "Redux Framework Status"
+msgstr ""
+
+#: inc/options/inc/welcome/welcome.php:344
+msgid "What's New"
+msgstr ""
+
+#: inc/options/inc/welcome/welcome.php:347 inc/options/simple.php:25
+msgid "Extensions"
+msgstr ""
+
+#: inc/options/inc/welcome/welcome.php:350
+msgid "Changelog"
+msgstr ""
+
+#: inc/options/inc/welcome/welcome.php:353
+msgid "Credits"
+msgstr ""
+
+#: inc/options/inc/welcome/welcome.php:356 inc/options/simple.php:19
+msgid "Support"
+msgstr ""
+
+#: inc/options/inc/welcome/welcome.php:359
+msgid "Status"
+msgstr ""
+
+#: inc/options/inc/welcome/welcome.php:519
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: inc/options/options.php:28 inc/options/options.php:36
+#: inc/options/options.php:37 inc/zhaket-options.php:46
+#: inc/zhaket-options.php:47
+msgid "Zhaket updater"
+msgstr ""
+
+#: inc/options/options.php:139
+msgid "agreement"
+msgstr ""
+
+#: inc/options/options.php:156
+#, php-format
+msgid "<p>پیام بالای بخش تنظیمات ژاکت  <strong>$%1$s</strong></p>"
+msgstr ""
+
+#: inc/options/options.php:158 inc/options/simple.php:60
+msgid ""
+"<p>This text is displayed above the options panel. It isn't required, but "
+"more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+
+#: inc/options/options.php:163
+msgid "<p>پیام فوتر پلاگین به روز رسان ژاکت</p>"
+msgstr ""
+
+#: inc/options/options.php:219
+msgid "check for update"
+msgstr ""
+
+#: inc/options/options.php:221 inc/options/options.php:297
+#: inc/options/options.php:355 inc/options/options.php:362
+#: inc/options/options.php:369
+msgid "change settings of check for update on plugins and themes"
+msgstr ""
+
+#: inc/options/options.php:228
+msgid "Plugins"
+msgstr ""
+
+#: inc/options/options.php:232
+msgid ""
+"selected plugins always check for update and suggest you. if you dont want "
+"to suggest update for spacial plugin (customized plugin or not from Zhaket) "
+"deselect this. "
+msgstr ""
+
+#: inc/options/options.php:237
+msgid "check all plugins"
+msgstr ""
+
+#: inc/options/options.php:239
+msgid "if active, All plugins always checked"
+msgstr ""
+
+#: inc/options/options.php:245 inc/options/options.php:278
+#: inc/options/simple.php:141
+msgid "Multi Checkbox Option"
+msgstr ""
+
+#: inc/options/options.php:246 inc/options/options.php:279
+#: inc/options/simple.php:134 inc/options/simple.php:142
+#: inc/options/simple.php:161 inc/options/simple.php:169
+#: inc/options/simple.php:186 inc/options/simple.php:200
+#: inc/options/simple.php:1007 inc/options/simple.php:1021
+#: inc/options/simple.php:1106 inc/options/simple.php:1128
+#: inc/options/simple.php:1153 inc/options/simple.php:1174
+#: inc/options/simple.php:1183 inc/options/simple.php:1191
+#: inc/options/simple.php:1200 inc/options/simple.php:1208
+#: inc/options/simple.php:1217 inc/options/simple.php:1225
+#: inc/options/simple.php:1234 inc/options/simple.php:1242
+#: inc/options/simple.php:1251 inc/options/simple.php:1269
+#: inc/options/simple.php:1278 inc/options/simple.php:1286
+#: inc/options/simple.php:1295 inc/options/simple.php:1303
+#: inc/options/simple.php:1311 inc/options/simple.php:1327
+#: inc/options/simple.php:1372 inc/options/simple.php:1632
+msgid "No validation can be done on this field type"
+msgstr ""
+
+#: inc/options/options.php:247 inc/options/options.php:280
+#: inc/options/simple.php:135 inc/options/simple.php:143
+#: inc/options/simple.php:162 inc/options/simple.php:170
+#: inc/options/simple.php:187 inc/options/simple.php:201
+#: inc/options/simple.php:217 inc/options/simple.php:231
+#: inc/options/simple.php:331 inc/options/simple.php:472
+#: inc/options/simple.php:512 inc/options/simple.php:537
+#: inc/options/simple.php:604 inc/options/simple.php:622
+#: inc/options/simple.php:752 inc/options/simple.php:1008
+#: inc/options/simple.php:1022 inc/options/simple.php:1107
+#: inc/options/simple.php:1129 inc/options/simple.php:1154
+#: inc/options/simple.php:1175 inc/options/simple.php:1184
+#: inc/options/simple.php:1192 inc/options/simple.php:1201
+#: inc/options/simple.php:1209 inc/options/simple.php:1218
+#: inc/options/simple.php:1226 inc/options/simple.php:1235
+#: inc/options/simple.php:1243 inc/options/simple.php:1252
+#: inc/options/simple.php:1262 inc/options/simple.php:1270
+#: inc/options/simple.php:1279 inc/options/simple.php:1287
+#: inc/options/simple.php:1296 inc/options/simple.php:1312
+#: inc/options/simple.php:1373 inc/options/simple.php:1633
+#: inc/options/simple.php:1747 inc/options/simple.php:1757
+#: inc/options/simple.php:1766 inc/options/simple.php:1773
+#: inc/options/simple.php:1782 inc/options/simple.php:1791
+#: inc/options/simple.php:1800 inc/options/simple.php:1822
+#: inc/options/simple.php:1859 inc/options/simple.php:1868
+#: inc/options/simple.php:1877 inc/options/simple.php:1895
+msgid "This is the description field, again good for additional info."
+msgstr ""
+
+#: inc/options/options.php:261
+msgid "Themes"
+msgstr ""
+
+#: inc/options/options.php:265
+msgid ""
+"selected themes always check for update and suggest you. if you dont want to "
+"suggest update for spacial theme (customized theme or not from Zhaket) "
+"deselect this. "
+msgstr ""
+
+#: inc/options/options.php:270
+msgid "check all themes"
+msgstr ""
+
+#: inc/options/options.php:272
+msgid "if active, All themes always checked"
+msgstr ""
+
+#: inc/options/options.php:295
+msgid "Backup settings"
+msgstr ""
+
+#: inc/options/options.php:304
+msgid "removed old backup"
+msgstr ""
+
+#: inc/options/options.php:306
+msgid "if active, after some time or count , last backup was removed"
+msgstr ""
+
+#: inc/options/options.php:312
+msgid "how many backup must keep for each items"
+msgstr ""
+
+#: inc/options/options.php:313
+msgid "big number maybe fill your host"
+msgstr ""
+
+#: inc/options/options.php:316
+msgid "please enter number (1,2,....)"
+msgstr ""
+
+#: inc/options/options.php:326
+msgid "all of old backup is hear"
+msgstr ""
+
+#: inc/options/options.php:333
+msgid "Restore Backup"
+msgstr ""
+
+#: inc/options/options.php:340
+msgid "all of old backup for restore"
+msgstr ""
+
+#: inc/options/options.php:348 inc/options/simple.php:92
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: inc/options/options.php:353
+msgid "Email Notifications"
+msgstr ""
+
+#: inc/options/options.php:360
+msgid "Reports"
+msgstr ""
+
+#: inc/options/options.php:367
+msgid "Manual"
+msgstr ""
+
+#: inc/options/simple.php:13 inc/options/simple.php:2063
+msgid "Documentation"
+msgstr ""
+
+#: inc/options/simple.php:58
+#, php-format
+msgid ""
+"<p>Did you know that Redux sets a global variable for you? To access any of "
+"your saved options from within your code you can use your global variable: "
+"<strong>$%1$s</strong></p>"
+msgstr ""
+
+#: inc/options/simple.php:64
+msgid ""
+"<p>This text is displayed below the options panel. It isn't required, but "
+"more info is always better! The footer_text field accepts all HTML.</p>"
+msgstr ""
+
+#: inc/options/simple.php:80
+msgid "Theme Information 1"
+msgstr ""
+
+#: inc/options/simple.php:81 inc/options/simple.php:86
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: inc/options/simple.php:85
+msgid "Theme Information 2"
+msgstr ""
+
+#: inc/options/simple.php:116
+msgid "Basic Fields"
+msgstr ""
+
+#: inc/options/simple.php:118
+msgid "These are really basic fields!"
+msgstr ""
+
+#: inc/options/simple.php:124
+msgid "Checkbox"
+msgstr ""
+
+#: inc/options/simple.php:128 inc/options/simple.php:180
+#: inc/options/simple.php:210 inc/options/simple.php:249
+#: inc/options/simple.php:289 inc/options/simple.php:304
+#: inc/options/simple.php:323 inc/options/simple.php:349
+#: inc/options/simple.php:382 inc/options/simple.php:440
+#: inc/options/simple.php:463 inc/options/simple.php:482
+#: inc/options/simple.php:503 inc/options/simple.php:528
+#: inc/options/simple.php:588 inc/options/simple.php:594
+#: inc/options/simple.php:638 inc/options/simple.php:674
+#: inc/options/simple.php:744 inc/options/simple.php:760
+#: inc/options/simple.php:813 inc/options/simple.php:842
+#: inc/options/simple.php:855 inc/options/simple.php:950
+#: inc/options/simple.php:1000 inc/options/simple.php:1039
+#: inc/options/simple.php:1098 inc/options/simple.php:1319
+#: inc/options/simple.php:1415 inc/options/simple.php:1458
+#: inc/options/simple.php:1522 inc/options/simple.php:1542
+#: inc/options/simple.php:1625 inc/options/simple.php:1641
+#: inc/options/simple.php:1689 inc/options/simple.php:1721
+msgid "For full documentation on this field, visit: "
+msgstr ""
+
+#: inc/options/simple.php:133
+msgid "Checkbox Option"
+msgstr ""
+
+#: inc/options/simple.php:160
+msgid "Multi Checkbox Option (with menu data)"
+msgstr ""
+
+#: inc/options/simple.php:168
+msgid "Multi Checkbox Option (with sidebar data)"
+msgstr ""
+
+#: inc/options/simple.php:176
+msgid "Radio"
+msgstr ""
+
+#: inc/options/simple.php:185
+msgid "Radio Option"
+msgstr ""
+
+#: inc/options/simple.php:199
+msgid "Radio Option w/ Menu Data"
+msgstr ""
+
+#: inc/options/simple.php:207
+msgid "Sortable"
+msgstr ""
+
+#: inc/options/simple.php:215 inc/options/simple.php:229
+msgid "Sortable Text Option"
+msgstr ""
+
+#: inc/options/simple.php:216 inc/options/simple.php:230
+msgid "Define and reorder these however you want."
+msgstr ""
+
+#: inc/options/simple.php:248
+msgid "Text"
+msgstr ""
+
+#: inc/options/simple.php:257 inc/options/simple.php:277
+msgid "Text Field"
+msgstr ""
+
+#: inc/options/simple.php:258 inc/options/simple.php:266
+#: inc/options/simple.php:278 inc/options/simple.php:330
+#: inc/options/simple.php:1696 inc/options/simple.php:1705
+msgid "Subtitle"
+msgstr ""
+
+#: inc/options/simple.php:259 inc/options/simple.php:267
+#: inc/options/simple.php:279
+msgid "Field Description"
+msgstr ""
+
+#: inc/options/simple.php:265
+msgid "Text Field w/ Hint"
+msgstr ""
+
+#: inc/options/simple.php:287
+msgid "Multi Text"
+msgstr ""
+
+#: inc/options/simple.php:295
+msgid "Multi Text Option"
+msgstr ""
+
+#: inc/options/simple.php:296
+msgid "Field subtitle"
+msgstr ""
+
+#: inc/options/simple.php:297
+msgid "Field Decription"
+msgstr ""
+
+#: inc/options/simple.php:321
+msgid "Textarea"
+msgstr ""
+
+#: inc/options/simple.php:329 inc/options/simple.php:1875
+msgid "Textarea Option - HTML Validated Custom"
+msgstr ""
+
+#: inc/options/simple.php:339
+msgid "Editors"
+msgstr ""
+
+#: inc/options/simple.php:346
+msgid "WordPress Editor"
+msgstr ""
+
+#: inc/options/simple.php:355
+msgid "Editor"
+msgstr ""
+
+#: inc/options/simple.php:356
+msgid "Use any of the features of WordPress editor inside your panel!"
+msgstr ""
+
+#: inc/options/simple.php:362
+msgid "Editor w/o Media Button"
+msgstr ""
+
+#: inc/options/simple.php:378
+msgid "Editor - Full Width"
+msgstr ""
+
+#: inc/options/simple.php:386
+msgid "ACE Editor"
+msgstr ""
+
+#: inc/options/simple.php:390
+msgid "For full documentation on the this field, visit: "
+msgstr ""
+
+#: inc/options/simple.php:395
+msgid "CSS Code"
+msgstr ""
+
+#: inc/options/simple.php:396
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: inc/options/simple.php:405
+msgid "JS Code"
+msgstr ""
+
+#: inc/options/simple.php:406
+msgid "Paste your JS code here."
+msgstr ""
+
+#: inc/options/simple.php:416
+msgid "PHP Code"
+msgstr ""
+
+#: inc/options/simple.php:417
+msgid "Paste your PHP code here."
+msgstr ""
+
+#: inc/options/simple.php:431
+msgid "Color Selection"
+msgstr ""
+
+#: inc/options/simple.php:433
+msgid "dd"
+msgstr ""
+
+#: inc/options/simple.php:438
+msgid "Color"
+msgstr ""
+
+#: inc/options/simple.php:447
+msgid "Site Title Color"
+msgstr ""
+
+#: inc/options/simple.php:448
+msgid "Pick a title color for the theme (default: #000)."
+msgstr ""
+
+#: inc/options/simple.php:454
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/options/simple.php:455
+msgid "Pick a background color for the footer (default: #dd9933)."
+msgstr ""
+
+#: inc/options/simple.php:462
+msgid "Color Gradient"
+msgstr ""
+
+#: inc/options/simple.php:470
+msgid "Header Gradient Color Option"
+msgstr ""
+
+#: inc/options/simple.php:471 inc/options/simple.php:511
+#: inc/options/simple.php:536 inc/options/simple.php:601
+#: inc/options/simple.php:618
+msgid "Only color validation can be done on this field type"
+msgstr ""
+
+#: inc/options/simple.php:481 inc/options/simple.php:489
+msgid "Color RGBA"
+msgstr ""
+
+#: inc/options/simple.php:490
+msgid "Gives you the RGBA color."
+msgstr ""
+
+#: inc/options/simple.php:502
+msgid "Link Color"
+msgstr ""
+
+#: inc/options/simple.php:510
+msgid "Links Color Option"
+msgstr ""
+
+#: inc/options/simple.php:527
+msgid "Palette Colors"
+msgstr ""
+
+#: inc/options/simple.php:535
+msgid "Palette Color Option"
+msgstr ""
+
+#: inc/options/simple.php:567
+msgid "Design Fields"
+msgstr ""
+
+#: inc/options/simple.php:574
+msgid "Background"
+msgstr ""
+
+#: inc/options/simple.php:582
+msgid "Body Background"
+msgstr ""
+
+#: inc/options/simple.php:583
+msgid "Body background with image, color, etc."
+msgstr ""
+
+#: inc/options/simple.php:592
+msgid "Border"
+msgstr ""
+
+#: inc/options/simple.php:600 inc/options/simple.php:617
+msgid "Header Border Option"
+msgstr ""
+
+#: inc/options/simple.php:636
+msgid "Dimensions"
+msgstr ""
+
+#: inc/options/simple.php:646
+msgid "Dimensions (Width/Height) Option"
+msgstr ""
+
+#: inc/options/simple.php:647 inc/options/simple.php:660
+msgid "Allow your users to choose width, height, and/or unit."
+msgstr ""
+
+#: inc/options/simple.php:648 inc/options/simple.php:661
+msgid ""
+"You can enable or disable any piece of this field. Width, Height, or Units."
+msgstr ""
+
+#: inc/options/simple.php:659
+msgid "Dimensions (Width) Option"
+msgstr ""
+
+#: inc/options/simple.php:672
+msgid "Spacing"
+msgstr ""
+
+#: inc/options/simple.php:694 inc/options/simple.php:719
+msgid "Padding/Margin Option"
+msgstr ""
+
+#: inc/options/simple.php:695 inc/options/simple.php:720
+msgid "Allow your users to choose the spacing or margin they want."
+msgstr ""
+
+#: inc/options/simple.php:696 inc/options/simple.php:721
+msgid ""
+"You can enable or disable any piece of this field. Top, Right, Bottom, Left, "
+"or Units."
+msgstr ""
+
+#: inc/options/simple.php:734
+msgid "Media Uploads"
+msgstr ""
+
+#: inc/options/simple.php:742
+msgid "Gallery"
+msgstr ""
+
+#: inc/options/simple.php:751
+msgid ""
+"Create a new Gallery by selecting existing or uploading new images using the "
+"WordPress native uploader"
+msgstr ""
+
+#: inc/options/simple.php:758
+msgid "Media"
+msgstr ""
+
+#: inc/options/simple.php:767
+msgid "Media w/ URL"
+msgstr ""
+
+#: inc/options/simple.php:770 inc/options/simple.php:804
+msgid "Basic media uploader with disabled URL input field."
+msgstr ""
+
+#: inc/options/simple.php:771 inc/options/simple.php:783
+#: inc/options/simple.php:791 inc/options/simple.php:805
+msgid "Upload any media using the WordPress native uploader"
+msgstr ""
+
+#: inc/options/simple.php:781
+msgid "Media w/o URL"
+msgstr ""
+
+#: inc/options/simple.php:782 inc/options/simple.php:790
+msgid ""
+"This represents the minimalistic view. It does not have the preview box or "
+"the display URL in an input box. "
+msgstr ""
+
+#: inc/options/simple.php:789
+msgid "Media No Preview"
+msgstr ""
+
+#: inc/options/simple.php:800
+msgid "Upload Anything - Disabled Mode"
+msgstr ""
+
+#: inc/options/simple.php:811
+msgid "Slides"
+msgstr ""
+
+#: inc/options/simple.php:819
+msgid "Slides Options"
+msgstr ""
+
+#: inc/options/simple.php:820
+msgid "Unlimited slides with drag and drop sortings."
+msgstr ""
+
+#: inc/options/simple.php:821
+msgid ""
+"This field will store all slides values into a multidimensional array to use "
+"into a foreach loop."
+msgstr ""
+
+#: inc/options/simple.php:823
+msgid "This is a title"
+msgstr ""
+
+#: inc/options/simple.php:824
+msgid "Description Here"
+msgstr ""
+
+#: inc/options/simple.php:825
+msgid "Give us a link!"
+msgstr ""
+
+#: inc/options/simple.php:833
+msgid "Presentation Fields"
+msgstr ""
+
+#: inc/options/simple.php:840
+msgid "Divide"
+msgstr ""
+
+#: inc/options/simple.php:842
+msgid ""
+"The spacer to the section menu as seen to the left (after this section "
+"block) is the divide \"section\". Also the divider below is the divide "
+"\"field\"."
+msgstr ""
+
+#: inc/options/simple.php:853
+msgid "Info"
+msgstr ""
+
+#: inc/options/simple.php:861
+msgid "This is the info field, if you want to break sections up."
+msgstr ""
+
+#: inc/options/simple.php:867 inc/options/simple.php:874
+#: inc/options/simple.php:882 inc/options/simple.php:890
+#: inc/options/simple.php:899 inc/options/simple.php:906
+#: inc/options/simple.php:914 inc/options/simple.php:923
+#: inc/options/simple.php:932 inc/options/simple.php:941
+msgid "This is a title."
+msgstr ""
+
+#: inc/options/simple.php:868
+msgid ""
+"This is an info field with the <strong>info</strong> style applied. By "
+"default the <strong>normal</strong> style is applied."
+msgstr ""
+
+#: inc/options/simple.php:875
+msgid "This is an info field with the <strong>warning</strong> style applied."
+msgstr ""
+
+#: inc/options/simple.php:883
+msgid ""
+"This is an info field with the <strong>success</strong> style applied and an "
+"icon."
+msgstr ""
+
+#: inc/options/simple.php:891
+msgid ""
+"This is an info field with the <strong>critical</strong> style applied and "
+"an icon."
+msgstr ""
+
+#: inc/options/simple.php:900
+msgid ""
+"This is an info field with the <strong>custom</strong> style applied, color "
+"arg passed, and an icon."
+msgstr ""
+
+#: inc/options/simple.php:907
+msgid ""
+"This is an info non-notice field with the <strong>normal</strong> style "
+"applied."
+msgstr ""
+
+#: inc/options/simple.php:915
+msgid ""
+"This is an info non-notice field with the <strong>info</strong> style "
+"applied."
+msgstr ""
+
+#: inc/options/simple.php:924
+msgid ""
+"This is an info non-notice field with the <strong>warning</strong> style "
+"applied and an icon."
+msgstr ""
+
+#: inc/options/simple.php:933
+msgid ""
+"This is an info non-notice field with the <strong>success</strong> style "
+"applied and an icon."
+msgstr ""
+
+#: inc/options/simple.php:942
+msgid ""
+"This is an non-notice field with the <strong>critical</strong> style applied "
+"and an icon."
+msgstr ""
+
+#: inc/options/simple.php:948
+msgid "Section"
+msgstr ""
+
+#: inc/options/simple.php:956
+msgid "Section Example"
+msgstr ""
+
+#: inc/options/simple.php:957
+msgid "With the \"section\" field you can create indented option sections."
+msgstr ""
+
+#: inc/options/simple.php:963 inc/options/simple.php:969
+msgid "Field Title"
+msgstr ""
+
+#: inc/options/simple.php:964 inc/options/simple.php:970
+msgid "Field Subtitle"
+msgstr ""
+
+#: inc/options/simple.php:980
+msgid "And now you can add more fields below and outside of the indent."
+msgstr ""
+
+#: inc/options/simple.php:991
+msgid "Switch & Button Set"
+msgstr ""
+
+#: inc/options/simple.php:998
+msgid "Button Set"
+msgstr ""
+
+#: inc/options/simple.php:1006
+msgid "Button Set Option"
+msgstr ""
+
+#: inc/options/simple.php:1020
+msgid "Button Set, Multi Select"
+msgstr ""
+
+#: inc/options/simple.php:1037
+msgid "Switch"
+msgstr ""
+
+#: inc/options/simple.php:1046
+msgid "Switch On"
+msgstr ""
+
+#: inc/options/simple.php:1047 inc/options/simple.php:1054
+msgid "Look, it's on!"
+msgstr ""
+
+#: inc/options/simple.php:1053
+msgid "Switch Off"
+msgstr ""
+
+#: inc/options/simple.php:1061
+msgid "Switch - Nested Children, Enable to show"
+msgstr ""
+
+#: inc/options/simple.php:1062
+msgid "Look, it's on! Also hidden child elements!"
+msgstr ""
+
+#: inc/options/simple.php:1071
+msgid "Switch - This and the next switch required for patterns to show"
+msgstr ""
+
+#: inc/options/simple.php:1072 inc/options/simple.php:1081
+msgid "Also called a \"fold\" parent."
+msgstr ""
+
+#: inc/options/simple.php:1073 inc/options/simple.php:1082
+msgid ""
+"Items set with a fold to this ID will hide unless this is set to the "
+"appropriate value."
+msgstr ""
+
+#: inc/options/simple.php:1080
+msgid "Switch2 - Enable the above switch and this one for patterns to show"
+msgstr ""
+
+#: inc/options/simple.php:1090
+msgid "Select Fields"
+msgstr ""
+
+#: inc/options/simple.php:1096
+msgid "Select"
+msgstr ""
+
+#: inc/options/simple.php:1105
+msgid "Select Option"
+msgstr ""
+
+#: inc/options/simple.php:1119
+msgid "Theme Stylesheet"
+msgstr ""
+
+#: inc/options/simple.php:1120
+msgid "Select your themes alternative color scheme."
+msgstr ""
+
+#: inc/options/simple.php:1127
+msgid "Select Option with optgroup"
+msgstr ""
+
+#: inc/options/simple.php:1152
+msgid "Multi Select Option"
+msgstr ""
+
+#: inc/options/simple.php:1167
+msgid "You can easily add a variety of data from WordPress."
+msgstr ""
+
+#: inc/options/simple.php:1173
+msgid "Categories Select Option"
+msgstr ""
+
+#: inc/options/simple.php:1182
+msgid "Categories Multi Select Option"
+msgstr ""
+
+#: inc/options/simple.php:1190
+msgid "Pages Select Option"
+msgstr ""
+
+#: inc/options/simple.php:1199
+msgid "Pages Multi Select Option"
+msgstr ""
+
+#: inc/options/simple.php:1207
+msgid "Tags Select Option"
+msgstr ""
+
+#: inc/options/simple.php:1216
+msgid "Tags Multi Select Option"
+msgstr ""
+
+#: inc/options/simple.php:1224
+msgid "Menus Select Option"
+msgstr ""
+
+#: inc/options/simple.php:1233
+msgid "Menus Multi Select Option"
+msgstr ""
+
+#: inc/options/simple.php:1241
+msgid "Post Type Select Option"
+msgstr ""
+
+#: inc/options/simple.php:1250
+msgid "Post Type Multi Select Option"
+msgstr ""
+
+#: inc/options/simple.php:1260
+msgid "Post Type Multi Select Option + Sortable"
+msgstr ""
+
+#: inc/options/simple.php:1261
+msgid "This field also has sortable enabled!"
+msgstr ""
+
+#: inc/options/simple.php:1268
+msgid "Posts Select Option2"
+msgstr ""
+
+#: inc/options/simple.php:1277
+msgid "Posts Multi Select Option"
+msgstr ""
+
+#: inc/options/simple.php:1285
+msgid "User Role Select Option"
+msgstr ""
+
+#: inc/options/simple.php:1294
+msgid "Capabilities Select Option"
+msgstr ""
+
+#: inc/options/simple.php:1302
+msgid "Elusive Icons Select Option"
+msgstr ""
+
+#: inc/options/simple.php:1304
+msgid "Here's a list of all the elusive icons by name and icon."
+msgstr ""
+
+#: inc/options/simple.php:1310
+msgid "Users Select Option"
+msgstr ""
+
+#: inc/options/simple.php:1317
+msgid "Image Select"
+msgstr ""
+
+#: inc/options/simple.php:1326
+msgid "Images Option for Layout"
+msgstr ""
+
+#: inc/options/simple.php:1328
+msgid ""
+"This uses some of the built in images, you can use them for layout options."
+msgstr ""
+
+#: inc/options/simple.php:1362
+msgid "Images Option (with tiles => true)"
+msgstr ""
+
+#: inc/options/simple.php:1363
+msgid "Select a background pattern."
+msgstr ""
+
+#: inc/options/simple.php:1371
+msgid "Images Option"
+msgstr ""
+
+#: inc/options/simple.php:1388
+msgid "Preset"
+msgstr ""
+
+#: inc/options/simple.php:1389 inc/options/simple.php:1391
+msgid ""
+"This allows you to set a json string or array to override multiple "
+"preferences in your theme."
+msgstr ""
+
+#: inc/options/simple.php:1413 inc/options/simple.php:1421
+#: inc/options/simple.php:1439
+msgid "Select Image"
+msgstr ""
+
+#: inc/options/simple.php:1422 inc/options/simple.php:1440
+msgid "A preview of the selected image will appear underneath the select box."
+msgstr ""
+
+#: inc/options/simple.php:1449
+msgid "Slider / Spinner"
+msgstr ""
+
+#: inc/options/simple.php:1456
+msgid "Slider"
+msgstr ""
+
+#: inc/options/simple.php:1464
+msgid "Slider Example 1"
+msgstr ""
+
+#: inc/options/simple.php:1465
+msgid "This slider displays the value as a label."
+msgstr ""
+
+#: inc/options/simple.php:1466
+msgid "Slider description. Min: 1, max: 500, step: 1, default value: 250"
+msgstr ""
+
+#: inc/options/simple.php:1476
+msgid "Slider Example 2 with Steps (5)"
+msgstr ""
+
+#: inc/options/simple.php:1477
+msgid "This example displays the value in a text box"
+msgstr ""
+
+#: inc/options/simple.php:1478
+msgid "Slider description. Min: 0, max: 300, step: 5, default value: 75"
+msgstr ""
+
+#: inc/options/simple.php:1488
+msgid "Slider Example 3 with two sliders"
+msgstr ""
+
+#: inc/options/simple.php:1489
+msgid "This example displays the values in select boxes"
+msgstr ""
+
+#: inc/options/simple.php:1490
+msgid ""
+"Slider description. Min: 0, max: 500, step: 5, slider 1 default value: 100, "
+"slider 2 default value: 300"
+msgstr ""
+
+#: inc/options/simple.php:1504
+msgid "Slider Example 4 with float values"
+msgstr ""
+
+#: inc/options/simple.php:1505
+msgid "This example displays float values"
+msgstr ""
+
+#: inc/options/simple.php:1506
+msgid "Slider description. Min: 0, max: 1, step: .1, default value: .5"
+msgstr ""
+
+#: inc/options/simple.php:1520
+msgid "Spinner"
+msgstr ""
+
+#: inc/options/simple.php:1528
+msgid "JQuery UI Spinner Example 1"
+msgstr ""
+
+#: inc/options/simple.php:1529
+msgid ""
+"JQuery UI spinner description. Min:20, max: 100, step:20, default value: 40"
+msgstr ""
+
+#: inc/options/simple.php:1540
+msgid "Typography"
+msgstr ""
+
+#: inc/options/simple.php:1548
+msgid "Body Font"
+msgstr ""
+
+#: inc/options/simple.php:1549
+msgid "Specify the body font properties."
+msgstr ""
+
+#: inc/options/simple.php:1562
+msgid "Typography h2.site-description"
+msgstr ""
+
+#: inc/options/simple.php:1584
+msgid "Typography option with each property can be called individually."
+msgstr ""
+
+#: inc/options/simple.php:1599
+msgid "Additional Types"
+msgstr ""
+
+#: inc/options/simple.php:1623
+msgid "Date"
+msgstr ""
+
+#: inc/options/simple.php:1631
+msgid "Date Option"
+msgstr ""
+
+#: inc/options/simple.php:1639
+msgid "Sorter"
+msgstr ""
+
+#: inc/options/simple.php:1687
+msgid "Raw"
+msgstr ""
+
+#: inc/options/simple.php:1695
+msgid "Standard Raw Field"
+msgstr ""
+
+#: inc/options/simple.php:1704
+msgid "Raw Field <code>full_width</code> False"
+msgstr ""
+
+#: inc/options/simple.php:1713
+msgid "Advanced Features"
+msgstr ""
+
+#: inc/options/simple.php:1719
+msgid "Callback"
+msgstr ""
+
+#: inc/options/simple.php:1727
+msgid "Custom Field Callback"
+msgstr ""
+
+#: inc/options/simple.php:1728
+msgid "This is a completely unique field type"
+msgstr ""
+
+#: inc/options/simple.php:1729
+msgid ""
+"This is created with a callback function, so anything goes in this field. "
+"Make sure to define the function though."
+msgstr ""
+
+#: inc/options/simple.php:1737
+msgid "Field Validation"
+msgstr ""
+
+#: inc/options/simple.php:1739 inc/options/simple.php:1905
+msgid "For full documentation on validation, visit: "
+msgstr ""
+
+#: inc/options/simple.php:1745
+msgid "Text Option - Email Validated"
+msgstr ""
+
+#: inc/options/simple.php:1746
+msgid ""
+"This is a little space under the Field Title in the Options table, "
+"additional info is good in here."
+msgstr ""
+
+#: inc/options/simple.php:1755
+msgid "Text Option with Data Attributes"
+msgstr ""
+
+#: inc/options/simple.php:1756
+msgid ""
+"You can also pass an options array if you want. Set the default to whatever "
+"you like."
+msgstr ""
+
+#: inc/options/simple.php:1763
+msgid "Multi Text Option - Color Validated"
+msgstr ""
+
+#: inc/options/simple.php:1765
+msgid ""
+"If you enter an invalid color it will be removed. Try using the text \"blue"
+"\" as a color.  ;)"
+msgstr ""
+
+#: inc/options/simple.php:1771
+msgid "Text Option - URL Validated"
+msgstr ""
+
+#: inc/options/simple.php:1772
+msgid "This must be a URL."
+msgstr ""
+
+#: inc/options/simple.php:1780
+msgid "Text Option - Numeric Validated"
+msgstr ""
+
+#: inc/options/simple.php:1781
+msgid "This must be numeric."
+msgstr ""
+
+#: inc/options/simple.php:1789
+msgid "Text Option - Comma Numeric Validated"
+msgstr ""
+
+#: inc/options/simple.php:1790
+msgid "This must be a comma separated string of numerical values."
+msgstr ""
+
+#: inc/options/simple.php:1798
+msgid "Text Option - No Special Chars Validated"
+msgstr ""
+
+#: inc/options/simple.php:1799
+msgid "This must be a alpha numeric only."
+msgstr ""
+
+#: inc/options/simple.php:1807
+msgid "Text Option - Str Replace Validated"
+msgstr ""
+
+#: inc/options/simple.php:1808 inc/options/simple.php:1821
+#: inc/options/simple.php:1834
+msgid "You decide."
+msgstr ""
+
+#: inc/options/simple.php:1809
+msgid "This field's default value was changed by a filter hook!"
+msgstr ""
+
+#: inc/options/simple.php:1820
+msgid "Text Option - Preg Replace Validated"
+msgstr ""
+
+#: inc/options/simple.php:1833
+msgid "Text Option - Custom Callback Validated"
+msgstr ""
+
+#: inc/options/simple.php:1835
+msgid ""
+"Enter <code>1</code> and click <strong>Save Changes</strong> for an error "
+"message, or enter <code>2</code> and click <strong>Save Changes</strong> for "
+"a warning message."
+msgstr ""
+
+#: inc/options/simple.php:1857
+msgid "Textarea Option - No HTML Validated"
+msgstr ""
+
+#: inc/options/simple.php:1858
+msgid "All HTML will be stripped"
+msgstr ""
+
+#: inc/options/simple.php:1866
+msgid "Textarea Option - HTML Validated"
+msgstr ""
+
+#: inc/options/simple.php:1867
+msgid "HTML Allowed (wp_kses)"
+msgstr ""
+
+#: inc/options/simple.php:1876
+msgid "Custom HTML Allowed (wp_kses)"
+msgstr ""
+
+#: inc/options/simple.php:1893
+msgid "Textarea Option - JS Validated"
+msgstr ""
+
+#: inc/options/simple.php:1894
+msgid "JS will be escaped"
+msgstr ""
+
+#: inc/options/simple.php:1903
+msgid "Field Required / Linking"
+msgstr ""
+
+#: inc/options/simple.php:2009
+msgid "WPML Integration"
+msgstr ""
+
+#: inc/options/simple.php:2010
+msgid ""
+"These fields can be fully translated by WPML (WordPress Multi-Language). "
+"This serves as an example for you to implement. For extra details look at "
+"our <a href=\"//docs.reduxframework.com/core/advanced/wpml-integration/\" "
+"target=\"_blank\">WPML Implementation</a> documentation."
+msgstr ""
+
+#: inc/options/simple.php:2017
+msgid "WPML Text"
+msgstr ""
+
+#: inc/options/simple.php:2018
+msgid "This string can be translated via WPML."
+msgstr ""
+
+#: inc/options/simple.php:2023
+msgid "WPML Multi Checkbox"
+msgstr ""
+
+#: inc/options/simple.php:2024
+msgid "You can literally translate the values via key."
+msgstr ""
+
+#: inc/options/simple.php:2037
+msgid "Customizer Only"
+msgstr ""
+
+#: inc/options/simple.php:2038
+msgid ""
+"<p class=\"description\">This Section should be visible only in Customizer</"
+"p>"
+msgstr ""
+
+#: inc/options/simple.php:2044
+msgid "Customizer Only Option"
+msgstr ""
+
+#: inc/options/simple.php:2045
+msgid "The subtitle is NOT visible in customizer"
+msgstr ""
+
+#: inc/options/simple.php:2046
+msgid "The field desc is NOT visible in customizer."
+msgstr ""
+
+#: inc/options/simple.php:2178
+msgid "Section via hook"
+msgstr ""
+
+#: inc/options/simple.php:2179
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: inc/options/templates/panel/footer.tpl.php:57
+#: inc/options/templates/panel/header_stickybar.tpl.php:22
+msgid "Save Changes"
+msgstr ""
+
+#: inc/options/templates/panel/footer.tpl.php:62
+#: inc/options/templates/panel/header_stickybar.tpl.php:27
+msgid "Reset Section"
+msgstr ""
+
+#: inc/options/templates/panel/footer.tpl.php:64
+#: inc/options/templates/panel/header_stickybar.tpl.php:29
+msgid "Reset All"
+msgstr ""
+
+#: inc/options/templates/panel/footer.tpl.php:69
+#: inc/options/templates/panel/header_stickybar.tpl.php:33
+msgid "Working..."
+msgstr ""
+
+#: inc/options/templates/panel/header.tpl.php:11
+#: inc/options/templates/panel/header.tpl.php:49
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: inc/options/templates/panel/header.tpl.php:20
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: inc/options/templates/panel/header.tpl.php:26
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: inc/options/templates/panel/header.tpl.php:31
+msgid "and"
+msgstr ""
+
+#: inc/options/templates/panel/header.tpl.php:34
+msgid "This has been automatically enabled because"
+msgstr ""
+
+#: inc/options/templates/panel/header.tpl.php:36
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+
+#: inc/options/templates/panel/header.tpl.php:58
+msgid "FORCED DEV MODE OFF ENABLED"
+msgstr ""
+
+#: inc/options/templates/panel/header_stickybar.tpl.php:15
+msgid "Expand"
+msgstr ""
+
+#: inc/zhaket-options.php:173
+msgid " version: "
+msgstr ""
+
+#: inc/zhaket-options.php:174
+msgid " date: "
+msgstr ""
+
+#: inc/zhaket-options.php:175
+msgid "download"
+msgstr ""
+
+#: inc/zhaket-options.php:176
+msgid "delete"
+msgstr ""
+
+#: inc/zhaket-restore.php:28
+msgid "restore backup"
+msgstr ""
+
+#: inc/zhaket-restore.php:28
+msgid "zhaket restore"
+msgstr ""
+
+#: inc/zhaket-restore.php:50 inc/zhupclient-check.php:687
+msgid "restore request received"
+msgstr ""
+
+#: inc/zhaket-restore.php:52 inc/zhupclient-check.php:689
+#, php-format
+msgid "restore error received:%s"
+msgstr ""
+
+#: inc/zhaket-updater.php:271
+msgid "invalid domain address, you cannot use in localhost."
+msgstr ""
+
+#: inc/zhaket-updater.php:274
+msgid "your domain not validation.your domain cannot access."
+msgstr ""
+
+#: inc/zhaket-updater.php:277
+msgid "authentication failed. your credential is not accepted in zhaket.com"
+msgstr ""
+
+#: inc/zhaket-updater.php:280
+msgid "your authorization key is expired. please try again."
+msgstr ""
+
+#: inc/zhaket-updater.php:283
+msgid ""
+"you are not customer of this product. if you buy this product, must change "
+"support domain to this domain."
+msgstr ""
+
+#: inc/zhaket-updater.php:286
+msgid ""
+"your requested product is not in zhaket. please send this problem to zhaket."
+msgstr ""
+
+#: inc/zhaket-updater.php:289
+msgid "download link is not accessible"
+msgstr ""
+
+#: inc/zhaket-updater.php:292
+msgid "first update \"zhaket updater\" to update other plugins"
+msgstr ""
+
+#: inc/zhupclient-check.php:99
+msgid "zhaket updater has been updated with core"
+msgstr ""
+
+#: inc/zhupclient-check.php:434
+msgid ""
+"A plugin backup can not be created since a destination path for the backup "
+"file could not be found."
+msgstr ""
+
+#: inc/zhupclient-check.php:457
+#, php-format
+msgid ""
+"A plugin backup can not be created as creation of the zip file failed with "
+"the following error: %1$s"
+msgstr ""
+
+#: inc/zhupclient-check.php:516
+msgid "request update send"
+msgstr ""
+
+#: inc/zhupclient-check.php:734 inc/zhupclient-check.php:752
+msgid "new version is detected"
+msgstr ""
+
+#: inc/zhupclient-check.php:743 inc/zhupclient-check.php:764
+msgid "server connection problem happen. "
+msgstr ""
+
+#: inc/zhupclient-check.php:755
+msgid "no changes happened"
+msgstr ""
+
+#: inc/zhupclient-check.php:790
+msgid "json file was read successfully"
+msgstr ""
+
+#: inc/zhupclient-check.php:799
+msgid "server connection problem accrued. "
+msgstr ""
+
+#: inc/zhupclient-check.php:843
+msgid "Rollback"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Zhaket Updater"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://URI_Of_The_Plugin"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A brief description of the Plugin."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "alireza"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://URI_Of_The_Plugin_Author"
+msgstr ""

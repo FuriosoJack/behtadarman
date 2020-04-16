@@ -1,0 +1,79 @@
+.zhk_updater_plugin_details_rtl_correction {
+    direction: rtl;
+    text-align: right;
+}
+.zhk_updater_plugin_details_title {
+    text-align: center;
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+    line-height: 2.2;
+}
+.zhk_updater_plugin_details_description {
+    line-height: 2;
+    font-size: 13px;
+}
+.zhk_updater_plugin_details_button {
+    text-align: center;
+}
+.zhk_updater_plugin_details_button a {
+    display: inline-block;
+    width: auto;
+    padding: 10px 25px;
+    background: #fea000;
+    text-align: center;
+    border-radius: 3px;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 15px;
+    text-decoration: none;
+}
+.zhk_updater_plugin_details_faq_question {
+    font-weight: 700;
+    font-size: 13px;
+    margin-bottom: 10px;
+    direction: rtl;
+}
+.zhk_updater_plugin_details_faq_answer {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    font-size: 13px;
+    direction: rtl;
+}
+.zhaket-buy-btn{
+    margin: 0 10px!important;
+    text-decoration: none!important;
+}
+
+.plugins .plugin-update-tr .notice, .plugins .plugin-update-tr div[class=update-message]{
+    position: relative;
+}
+.zhk-update-inline-message{
+    position: absolute;
+    right: 6px;
+    top: 5px;
+}
+
+.zhk-auto-refresh{
+    line-height: 28px;
+}
+
+.zhk-auto-refresh .button{
+    background: #fea000;
+    color: white;
+    border-color: #ff960b;
+    box-shadow: 0 1px 0 #cccb00;
+}
+.zhk-auto-refresh .button:hover{
+    background: #fe8000;
+    color: white;
+}
+
+@media screen and (max-width: 782px){
+    #plugin-information #section-holder.wrap{
+        clear: initial;
+    }
+}

@@ -1,0 +1,144 @@
+/* et-message */
+.et-message,
+div.et-message, {
+    padding-right: 35px;
+    padding-left: 15px;
+}
+
+.et-message:before {
+    left: auto;
+    right: 15px;
+}
+
+/* Dashboard */
+
+.etheme-page-header p {
+    padding-right: 0;
+    padding-left: 30px;
+}
+
+.etheme-page-nav ul li {
+    float: right;
+}
+.et-nav-menu:before,
+.et-nav-portfolio:before,
+.et-nav-speed:before,
+.et-nav-general:before,
+.et-nav-support:before,
+.et-nav-documentation:before {
+	margin-right: 0;
+	margin-left: 5px;
+}
+
+.etheme-purchase span {
+    padding-left: 0;
+    padding-right: 5px;
+}
+
+/* columns */
+
+.et-col-7, .et-col-5 {
+    float: right;
+}
+
+.et-col-7:after {
+    right: auto;
+    left: 0;
+}
+
+/* demos */
+
+.import-additional-pages .page-preview {
+    margin-right: 0;
+    margin-left: 30px;
+}
+
+/* tutorials */
+
+.support-includes li:before {
+    padding-right: 0;
+    padding-left: 5px;
+}
+
+.support-blocks li {
+	float: right;
+}
+
+/* changelog */
+.version-update h4 {
+    float: right;
+}
+
+@media only screen and (max-width: 992px) {
+	.etheme-page-nav ul li a.active:after, 
+	.etheme-page-nav ul li a:hover:after {
+	    right: auto;
+	    left: 0;
+	    border-right-color: transparent;
+	    border-left-color: #fff;
+	}
+}
+
+/* et-button */
+.fright {
+	float: left;
+}
+.et-button + .et-button {
+	margin-right: 5px;
+	margin-left: 0;
+}
+
+.activate-note {
+    right: auto;
+    left: 10px;
+}
+
+/* st-preview */
+.sp-preview {
+	float: right;
+}
+
+/*ariawp*/
+.rtl .vc_controls-row .vc_row_edit_clone_delete .vc_control{
+    float: left;
+}
+.rtl .vc_controls-row .vc_control-row-layout:hover, .rtl .vc_controls-row .vc_row_layouts:hover{
+    right: 36px;
+    left: auto;
+}
+.rtl .vc_controls-row .vc_row_image{
+    margin-right: 0;
+    margin-left: 3px;
+    float: left;
+}
+
+.rtl #customize-save-button-wrapper{
+    left: 17px;
+    right: auto;
+}
+.rtl #customize-outer-theme-controls .accordion-section-title:after, .rtl #customize-theme-controls .accordion-section-title:after{
+    left: 18px;
+    right: auto;
+}
+.rtl.wp-customizer .select2-container .select2-selection--single, .rtl.wp-customizer select{
+    background-position: 12px 50%;
+}
+.rtl #customize-controls .customize-info .customize-help-toggle, .rtl .customize-screen-options-toggle{
+    left: 14px;
+    right: auto;
+}
+@media only screen and (max-width: 1666px){
+.rtl.wp-customizer .wp-full-overlay.expanded {
+    margin-right: 250px;
+    margin-left: 0;
+}
+}
+@media only screen and (max-width: 1250px){
+.rtl.wp-customizer .wp-full-overlay.expanded {
+    margin-right: 200px;
+    margin-left: 0;
+}
+}
+.rtl .et_customizer-builder{
+    direction: ltr;
+}

@@ -1,0 +1,12 @@
+2020-01-18T06:25:51+00:00 CRITICAL Uncaught Error: Call to a member function switch_to_locale() on null in /home/ariawp/preview2.ariawp.com/wp-includes/l10n.php:1582
+Stack trace:
+#0 /home/ariawp/preview2.ariawp.com/wp-admin/includes/misc.php(125): switch_to_locale('fa_IR')
+#1 /home/ariawp/preview2.ariawp.com/wp-content/plugins/mpc-massive/panel/extra/utils.php(44): insert_with_markers('/home/ariawp/pr...', 'Massive Addons ...', Array)
+#2 /home/ariawp/preview2.ariawp.com/wp-content/plugins/mpc-massive/mpc-massive.php(150): MPC_Utils::add_htaccess_rules()
+#3 /home/ariawp/preview2.ariawp.com/wp-includes/class-wp-hook.php(288): mpc_check_vc('')
+#4 /home/ariawp/preview2.ariawp.com/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#5 /home/ariawp/preview2.ariawp.com/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#6 /home/ariawp/preview2.ariawp.com/wp-settings.php(392): do_action('plugins_loaded')
+#7 /home/ariawp/preview2.ariawp.com/wp-config.php(99): require_once('/home/ariawp/pr...')
+#8 /home/ariawp/preview2.ariawp.com در /home/ariawp/preview2.ariawp.com/wp-includes/l10n.php روی خط 1582
+

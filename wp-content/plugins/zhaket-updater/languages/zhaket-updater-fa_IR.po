@@ -1,0 +1,1100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zhaket Smart Updater\n"
+"POT-Creation-Date: 2019-11-16 07:10+0330\n"
+"PO-Revision-Date: 2019-11-16 07:11+0330\n"
+"Last-Translator: Amir <danlod.com@gmail.com>\n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: zhaket-updater.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: .git\n"
+"X-Poedit-SearchPathExcluded-2: .idea\n"
+"X-Poedit-SearchPathExcluded-3: inc/options\n"
+"X-Poedit-SearchPathExcluded-4: inc/options\n"
+"X-Poedit-SearchPathExcluded-5: yakpro-po\n"
+
+#: inc/admin_notice.php:81 inc/admin_notice.php:85 inc/admin_notice.php:90
+msgid "Zhaket updater problem"
+msgstr "خطا در به روز رسان هوشمند ژاکِت"
+
+#: inc/admin_notice.php:193
+msgid "New notification for you"
+msgstr "پیام جدید برای شما"
+
+#: inc/admin_notice.php:215
+msgid "Dismiss this notice"
+msgstr "لغو نمایش"
+
+#: inc/zhaket_options.php:62
+msgid "ionCube required"
+msgstr "ماژول ionCube مورد نیاز است"
+
+#: inc/zhaket_options.php:80 inc/zhaket_options.php:565
+msgid "Zhaket smart updater"
+msgstr "به روز ‌رسان هوشمند ژاکِت"
+
+#: inc/zhaket_options.php:81 inc/zhaket_options.php:559
+#: inc/zhaket_options.php:564
+msgid "Zhaket updater"
+msgstr "به روز ‌رسان ژاکِت"
+
+#: inc/zhaket_options.php:248 inc/zhaket_options.php:347
+#: inc/zhaket_options.php:684
+msgid "Themes"
+msgstr "پوسته ها"
+
+#: inc/zhaket_options.php:252 inc/zhaket_options.php:282
+#: inc/zhaket_options.php:351 inc/zhaket_options.php:387
+msgid "Product name"
+msgstr "نام محصول"
+
+#: inc/zhaket_options.php:253 inc/zhaket_options.php:283
+#: inc/zhaket_options.php:352 inc/zhaket_options.php:388
+msgid "Version"
+msgstr "نسخه"
+
+#: inc/zhaket_options.php:254 inc/zhaket_options.php:284
+#: inc/zhaket_options.php:353 inc/zhaket_options.php:389
+msgid "Create date"
+msgstr "تاریخ ایجاد"
+
+#: inc/zhaket_options.php:255 inc/zhaket_options.php:285
+#: inc/zhaket_options.php:354 inc/zhaket_options.php:390
+msgid "Action"
+msgstr "عملیات"
+
+#: inc/zhaket_options.php:270 inc/zhaket_options.php:301
+#: inc/zhaket_options.php:373 inc/zhaket_options.php:406
+msgid "Restore"
+msgstr "بازگردانی"
+
+#: inc/zhaket_options.php:278 inc/zhaket_options.php:383
+#: inc/zhaket_options.php:653
+msgid "Plugins"
+msgstr "افزونه ها"
+
+#: inc/zhaket_options.php:313
+msgid ""
+"if you have any problem with this plugin,Please call zhaket support center "
+"and send this report to check your problem."
+msgstr ""
+"در صورتی که در استفاده از این افزونه با مشکلی مواجه هستید، ابتدا با بخش "
+"پشتیبانی ژاکِت تماس گرفته سپس گزارش ایجاد شده در این بخش را برای بررسی خطا در "
+"اختیار تیم پشتیبانی قرار دهید."
+
+#: inc/zhaket_options.php:314
+msgid "Generate report"
+msgstr "ایجاد گزارش"
+
+#: inc/zhaket_options.php:374 inc/zhaket_options.php:407
+msgid "Download"
+msgstr "دانلود"
+
+#: inc/zhaket_options.php:375 inc/zhaket_options.php:408
+msgid "Delete"
+msgstr "حذف"
+
+#: inc/zhaket_options.php:518
+msgid "New update for theme:"
+msgstr "به روز رسانی های موجود برای قالب ها:"
+
+#: inc/zhaket_options.php:525
+msgid "New update for plugin:"
+msgstr "به روز رسانی های موجود برای افزونه ها:"
+
+#: inc/zhaket_options.php:547
+msgid "New update available for your website"
+msgstr "به روز رسانی جدیدی برای سایت شما در دسترس است"
+
+#: inc/zhaket_options.php:637
+#, php-format
+msgid "All rights reserved for %s"
+msgstr ""
+"کلیه حقوق مادی و معنوی این افزونه متعلق %s است و هرگونه کپی برداری از آن "
+"غیرمجاز و پیگرد قانونی دارد."
+
+#: inc/zhaket_options.php:644
+msgid "Check for update"
+msgstr "بررسی به روز رسانی"
+
+#: inc/zhaket_options.php:646 inc/zhaket_options.php:716
+msgid "Check for update settings for plugins and themes"
+msgstr "تنظیمات به روز رسانی خودکار برای قالب ها و افزونه ها"
+
+#: inc/zhaket_options.php:657
+msgid ""
+"Selected plugins will be always check for update and suggest to you. if you "
+"dont want to suggest update for special plugin (customized plugin or not from "
+"Zhaket) deselect this. "
+msgstr ""
+"کلیه افزونه های سایت شما همواره بررسی می شوند و در صورتی که به روز رسانی "
+"جدیدی وجود داشته باشد به شما اعلام می گردد. اگر می خواهید این قابلیت را لغو "
+"کنید یا افزونه خاصی از این قابلیت محروم شود این گزینه را غیرفعال کنید."
+
+#: inc/zhaket_options.php:662
+msgid "Check all plugins"
+msgstr "بررسی همه افزونه ها"
+
+#: inc/zhaket_options.php:664
+msgid "if active, All plugins always checked"
+msgstr "در صورت فعال بودن، همه افزونه ها بررسی خواهند شد"
+
+#: inc/zhaket_options.php:670
+msgid "Please deselect any plugin to exclude from \"Zhaket smart updater\""
+msgstr ""
+"برای غیر فعال کردن بررسی به روز رسانی افزونه توسط \"به روز رسان هوشمند ژاکِت\" "
+"علامت چک‌مارک کنار نام افزونه را بردارید."
+
+#: inc/zhaket_options.php:688
+msgid ""
+"Selected themes will be always check for update and suggest to you. if you "
+"dont want to suggest update for special theme (customized theme or not from "
+"Zhaket) deselect this. "
+msgstr ""
+"کلیه قالب های سایت شما همواره بررسی می شوند و در صورتی که به روز رسانی جدیدی "
+"وجود داشته باشد به شما اعلام می گردد. اگر می خواهید این قابلیت را لغو کنید یا "
+"قالب خاصی از این قابلیت محروم شود این گزینه را غیرفعال کنید."
+
+#: inc/zhaket_options.php:693
+msgid "Check all themes"
+msgstr "بررسی همه قالب ها"
+
+#: inc/zhaket_options.php:695
+msgid "if active, All themes always checked"
+msgstr "در صورت فعال بودن٬ همه پوسته ها بررسی خواهند شد"
+
+#: inc/zhaket_options.php:701
+msgid "Please deselect any theme to exclude from \"Zhaket smart updater\""
+msgstr ""
+"برای غیر فعال کردن بررسی به روز رسانی قالب  توسط \"به روز رسان هوشمند ژاکِت\" "
+"علامت چک‌مارک کنار نام قالب  را بردارید."
+
+#: inc/zhaket_options.php:714
+msgid "Backup settings"
+msgstr "تنظیمات پشتیبان گیری"
+
+#: inc/zhaket_options.php:723
+msgid "Removed old backup"
+msgstr "حذف فایل پشتیبان"
+
+#: inc/zhaket_options.php:725
+msgid "if active, after some time or count , last backup will be removed"
+msgstr ""
+"در صورت فعال بودن، هنگام رسیدن به حداکثر تعداد مجاز، قدیمی ترین فایل از روی "
+"سرور حذف شده و فایل جدید جایگزین آن می شود"
+
+#: inc/zhaket_options.php:731
+msgid "How many backup files must keep for each product"
+msgstr "چه تعداد فایل پشتیبان برای هر محصول نگهداری شود؟"
+
+#: inc/zhaket_options.php:732
+msgid "Big number maybe fill your host"
+msgstr "عدد بزرگتر موجب اشغال فضای بیشتری از هاست شما می شود"
+
+#: inc/zhaket_options.php:735
+msgid "Please enter number (1,2,....)"
+msgstr "لطفا یک عدد وارد کنید (مثال: 1یا 2)"
+
+#: inc/zhaket_options.php:745
+msgid "All of old backups are here"
+msgstr "کلیه فایل های پشتیبان موجود در این بخش قابل دسترسی هستند"
+
+#: inc/zhaket_options.php:768
+msgid "Notification settings"
+msgstr "تنظیمات اطلاع رسانی"
+
+#: inc/zhaket_options.php:770
+msgid "Set notification settings"
+msgstr "سفارشی سازی تنظیمات اطلاع رسانی"
+
+#: inc/zhaket_options.php:777
+msgid "Get update notification"
+msgstr "دریافت اعلان های به روز رسانی"
+
+#: inc/zhaket_options.php:779
+msgid "When your plugins or themes need update, send email to you for alert"
+msgstr ""
+"هنگامی که افزونه ها یا قالب ها نیازمند به روزرسانی هستند، ایمیلی جهت اطلاع "
+"رسانی ارسال شود"
+
+#: inc/zhaket_options.php:785
+msgid "Show admin notification"
+msgstr "نمایش اعلان ها در پیشخوان وردپرس"
+
+#: inc/zhaket_options.php:787
+msgid ""
+"Allow to show notification in wordpress dashboard. if uncheck, All "
+"notifications will be deactive"
+msgstr ""
+"اعلان ها در پیشخوان وردپرس نمایش داده شوند، اگر این گزینه را غیرفعال کنید "
+"اطلاع رسانی در پیشخوان برای تمام اعلان ها لغو می شود."
+
+#: inc/zhaket_options.php:793
+msgid "Get admin notifications on email"
+msgstr "دریافت اعلان ها در ایمیل"
+
+#: inc/zhaket_options.php:795
+msgid ""
+"Allow to send notifications to your email. if uncheck, All notifications will "
+"be deactive"
+msgstr ""
+"اعلان ها به ایمیل ارسال شوند، اگر این گزینه را غیرفعال کنید اطلاع رسانی "
+"ایمیلی برای تمام اعلان ها لغو می شود."
+
+#: inc/zhaket_options.php:801
+msgid "Email for received notification"
+msgstr "ایمیل برای دریافت اعلان ها"
+
+#: inc/zhaket_options.php:802
+msgid "Only one email address"
+msgstr "فقط یک آدرس ایمیل مجاز است"
+
+#: inc/zhaket_options.php:805
+msgid "Please enter valid email address"
+msgstr "لطفا آدرس ایمیل معتبر وارد کنید"
+
+#: inc/zhaket_options.php:814
+msgid "Send email delay"
+msgstr "بازه زمانی ارسال ایمیل"
+
+#: inc/zhaket_options.php:815
+msgid "Send one email per selected period"
+msgstr "ارسال یک ایمیل در هر دوره انتخاب شده"
+
+#: inc/zhaket_options.php:816
+msgid "Days"
+msgstr "روز"
+
+#: inc/zhaket_options.php:819
+msgid "Please enter valid number"
+msgstr "لطفا شماره معتبر وارد کنید."
+
+#: inc/zhaket_options.php:829
+msgid "Report Problems"
+msgstr "گزارش خطا"
+
+#: inc/zhaket_options.php:844
+msgid "Manual"
+msgstr "آموزش استفاده"
+
+#: inc/zhup_installer.php:28
+#, fuzzy
+#| msgid "Check all plugins"
+msgid "zhaket plugins"
+msgstr "بررسی همه افزونه ها"
+
+#: inc/zhupclient.php:128
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: inc/zhupclient.php:129
+msgid "Quick check for updates"
+msgstr "بررسی به‌روزرسانی‌ها"
+
+#: inc/zhupclient.php:219
+msgid ""
+"we detect you do not have ionCube loader or it is too old , please call to "
+"your host service to update ionCube loader version to upper than 10.2"
+msgstr ""
+"طبق بررسی های انجام شده، سرور شما دارای ماژول ionCube loader نمی‌باشد و یا "
+"نسخه آن قدیمی است، لطفا با پشتیبان سرور خود جهت نصب و یا ارتقاء ionCube "
+"loader به نسخه بالاتر از ۱۰.۲  ارتباط برقرار نمایید."
+
+#: inc/zhupclient.php:223
+msgid ""
+"We your server php version is to old, this plugin need php version 5.6 to "
+"up.  please call to your host service to update php"
+msgstr ""
+"طبق بررسی های انجام شده، نسخه php  سرور شما قدیمی می‌باشد. برای استفاده از این "
+"افزونه نسخه php شما باید حداقل 5.6 باشد. لطفا با پشتیبان سرور خود جهت ارتقاء "
+"نسخه php ارتباط برقرار نمایید."
+
+#: inc/zhupclient.php:251
+msgid ""
+"zhaket updater add log problem, maybe your host space is low or limit access "
+"to database"
+msgstr ""
+"خطا در ثبت رویداد ( احتمال کم بودن فضای هاست یا عدم دسترسی به بانک اطلاعاتی)"
+
+#: inc/zhupclient.php:346
+msgid "Invalid domain name, you cannot use zhaket updater in localhost."
+msgstr ""
+"نام دامنه شما معتبر نیست. افزونه به روز رسان هوشمند ژاکِت در localhost قابل "
+"استفاده نیست."
+
+#: inc/zhupclient.php:349
+msgid "Your domain not validated, because your domain not accessed."
+msgstr "دامنه شما معتبر نیست، زیرا دامنه شما در دسترس نیست."
+
+#: inc/zhupclient.php:352
+msgid "Authentication failed. Your credential is not accepted in zhaket.com"
+msgstr "تایید اعتبار ناموفق بود. اعتبارسنجی شما توسط zhaket.com رد شد."
+
+#: inc/zhupclient.php:355
+msgid "Your authorization key is expired. Please try again."
+msgstr "متاسفانه کلید تایید شما منقضی شده است. لطفا دوباره تلاش کنید."
+
+#: inc/zhupclient.php:358
+msgid ""
+"You have not purchased this product. if we are wrong, must change support "
+"domain name to this website."
+msgstr ""
+"این محصول در لیست خریدهای شما در ژاکِت وجود ندارد. اگر اطمینان دارید که محصول "
+"را خریداری کرده اید، لطفا دامنه ثبت شده در بخش تیکت پشتیبانی ژاکِت را بررسی "
+"کرده و در صورت نیاز آن را به دامنه سایت فعلی تغییر دهید."
+
+#: inc/zhupclient.php:361
+msgid "Your requested product is not in zhaket. please report this to zhaket."
+msgstr ""
+"محصول درخواستی شما در ژاکِت وجود ندارد. لطفا این خطا را به ژاکِت گزارش کنید."
+
+#: inc/zhupclient.php:364
+msgid ""
+"Download link is not accessible, this is automatically reported to zhaket"
+msgstr ""
+"لینک دانلود در دسترس نیست. این خطا به صورت خودکار برای ژاکِت ارسال می گردد."
+
+#: inc/zhupclient.php:367
+msgid ""
+"\"Zhaket updater\" plugin have major updates. Please update it to run other "
+"plugin updates"
+msgstr ""
+"افزونه \"به روز رسان هوشمند ژاکِت\" نیازمند به روز رسانی است. لطفا ابتدا "
+"افزونه را به روز رسانی کرده سپس جهت به روز رسانی سایر افزونه ها اقدام نمایید."
+
+#: inc/zhupclient.php:370
+#, php-format
+msgid "Update list has been changed, Please %s the page and try again"
+msgstr ""
+"لیست به روز رسانی ها تغییر کرده است. لطفا صفحه را  %s کرده و مجددا اقدام "
+"نمایید"
+
+#: inc/zhupclient.php:373
+msgid "Error in create download link, please retry later"
+msgstr "خطایی در ایجاد لینک دانلود به وجود آمده. لطفا بعدا مجدد تلاش نمایید."
+
+#: inc/zhupclient_check.php:72
+#, php-format
+msgid "Zhaket updater start auto updated from version %s to %s"
+msgstr ""
+"افزونه به روز رسان هوشمند ژاکِت در حال بروز رسانی از نسخه %s به %s می‌باشد"
+
+#: inc/zhupclient_check.php:88
+#, php-format
+msgid "Zhaket updater finished auto updated to version %s with status: %s"
+msgstr ""
+"فرایند آپدیت خودکار افزونه به روز‌رسان هوشمند ژاکٍت به نسخه %s با وضعیت %s "
+"پایان یافت"
+
+#: inc/zhupclient_check.php:198
+msgid "Provide update by Zhaket"
+msgstr "ارائه آپدیت در ژاکِت"
+
+#: inc/zhupclient_check.php:266
+msgid "else buy form this link"
+msgstr "در غیر این صورت می‌توانید خریداری نمایید :"
+
+#: inc/zhupclient_check.php:266
+msgid "buy this product"
+msgstr "خرید این محصول"
+
+#: inc/zhupclient_check.php:270
+msgid "your server time is incorrect, please check it with hosting to fix."
+msgstr ""
+"ساعت سرور شما صحیح نمی‌باشد، لطفا این مسئله را با هاستینگ مطرح نموده تا برطرف "
+"گردد."
+
+#: inc/zhupclient_check.php:426
+msgid ""
+"Plugin backup can not be created since a destination path for the backup file "
+"could not be found."
+msgstr ""
+"ایجاد نسخه پشتیبان از افزونه به علت خطا در دسترسی به مقصد ذخیره سازی فایل "
+"پشتیبان با مشکل مواجه شد."
+
+#: inc/zhupclient_check.php:449
+#, php-format
+msgid ""
+"Plugin backup can not be created as creation of the zip file failed with the "
+"following error: %1$s"
+msgstr ""
+"ایجاد نسخه پشتیبان از افزونه به علت خطا در ایجاد فایل zip با مشکل مواجه شد. "
+"خطا: %1$s"
+
+#: inc/zhupclient_check.php:522
+msgid "Update request sent"
+msgstr "درخواست به روز رسانی ارسال شد"
+
+#: inc/zhupclient_check.php:550
+msgid "Please wait 5 minute and try again"
+msgstr "لطفا 5 دقیقه دیگر مجدد تلاش نمایید."
+
+#: inc/zhupclient_check.php:598 inc/zhupclient_check.php:601
+#: inc/zhupclient_check.php:618 inc/zhupclient_check.php:620
+#, php-format
+msgid "Error in connection: %s"
+msgstr "خطا در اتصال: %s"
+
+#: inc/zhupclient_check.php:757 inc/zhupclient_check.php:794
+msgid "Restore request received"
+msgstr "درخواست بازگردانی دریافت شد"
+
+#: inc/zhupclient_check.php:761 inc/zhupclient_check.php:798
+#, php-format
+msgid "Restore error received:%s"
+msgstr "خطای دریافت شده هنگام بازگردانی: %s"
+
+#: inc/zhupclient_check.php:826
+msgid "New version is detected"
+msgstr "نسخه جدیدی در دسترس است"
+
+#: inc/zhupclient_check.php:829
+msgid "No changes happened"
+msgstr "هیچ تغییری اعمال نشد"
+
+#: inc/zhupclient_check.php:838 inc/zhupclient_check.php:874
+#: inc/zhupclient_check.php:920
+msgid "Server connection problem. "
+msgstr "خطا در اتصال به سرور"
+
+#: inc/zhupclient_check.php:865
+msgid "json file was read successfully"
+msgstr "فایل به روز رسانی به درستی خوانده شد"
+
+#: inc/zhupclient_check.php:958
+msgid "Manage Backups"
+msgstr "مدیریت پشتیبان ها"
+
+#. Plugin Name of the plugin/theme
+msgid "Zhaket Smart Updater"
+msgstr "به‌روز‌رسان هوشمند ژاکِت"
+
+#. Plugin URI of the plugin/theme
+msgid "https://zhaket.com/product/zhaket-smart-updater/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Zhaket Smart Updater, an unique tool for instant update product purchases "
+"from zhaket.com. Zhaket is difference..."
+msgstr ""
+"به‌روز‌رسان هوشمند ژاکِت، ابزاری منحصر به فرد برای به روز رسانی مستقیم و سریع "
+"محصولات خریداری شده از سایت ژاکِت در پیشخوان مدیریتی سایت وردپرسی شما (ژاکِت "
+"فرق میکنه...)"
+
+#. Author of the plugin/theme
+msgid "zhaket"
+msgstr "ژاکِت"
+
+#. Author URI of the plugin/theme
+msgid "https://zhaket.com"
+msgstr ""
+
+#~ msgid "Zhaket Updater"
+#~ msgstr "به‌روز‌رسان ژاکِت"
+
+#~ msgid "Restore Backup"
+#~ msgstr "بازگردانی"
+
+#~ msgid "Backups Ready to restore"
+#~ msgstr "فایل های پشتیبان آماده بازگردانی"
+
+#~ msgid "Rollback"
+#~ msgstr "بازگردانی از فایل پشتیبان"
+
+#~ msgid "You have changes that are not saved. Would you like to save them now?"
+#~ msgstr ""
+#~ "شما تغییراتی ایجاد کرده اید که ذخیره نشده اند. آیا تمایل دارید آنها را "
+#~ "ذخیره نمایید؟"
+
+#~ msgid "Are you sure? Resetting will lose all custom values."
+#~ msgstr ""
+#~ "ایا اطمینان دارید؟ این گزینه همه تنظیمات شما را به روز اول بازمیگرداند."
+
+#~ msgid "Are you sure? Resetting will lose all custom values in this section."
+#~ msgstr ""
+#~ "ایا اطمینان دارید؟ این گزینه همه تنظیمات این بخش را به روز اول بازمیگرداند."
+
+#~ msgid "Please Wait"
+#~ msgstr "لطفا صبر کنید"
+
+#~ msgid "There was an error saving. Here is the result of your action:"
+#~ msgstr "در هنگام ذخیره خطایی رخ داده است."
+
+#, fuzzy
+#~| msgid "Settings"
+#~ msgid "Settings Imported!"
+#~ msgstr "تنظیمات"
+
+#, fuzzy
+#~| msgid "Settings"
+#~ msgid "Settings Saved!"
+#~ msgstr "تنظیمات"
+
+#, fuzzy
+#~| msgid "Action"
+#~ msgid "Options"
+#~ msgstr "عملیات"
+
+#, fuzzy
+#~| msgid "update list has been changed, please reload page and try again"
+#~ msgid "Invalid security credential.  Please reload the page and try again."
+#~ msgstr ""
+#~ "تغییراتی در لیست آپدیت اتفاق افتاده، لطفا این صفحه را بسته و مجدد باز "
+#~ "نمایید و برای به روز رسانی اقدام نمایید."
+
+#, fuzzy
+#~| msgid "update list has been changed, please reload page and try again"
+#~ msgid "Invalid user capability.  Please reload the page and try again."
+#~ msgstr ""
+#~ "تغییراتی در لیست آپدیت اتفاق افتاده، لطفا این صفحه را بسته و مجدد باز "
+#~ "نمایید و برای به روز رسانی اقدام نمایید."
+
+#, fuzzy
+#~| msgid ""
+#~| "You have changes that are not saved. Would you like to save them now?"
+#~ msgid ""
+#~ "You have changes that are not saved.  Would you like to save them now?"
+#~ msgstr ""
+#~ "شما تغییراتی ایجاد کرده اید که ذخیره نشده اند. آیا تمایل دارید آنها را "
+#~ "ذخیره نمایید؟"
+
+#, fuzzy
+#~| msgid "Are you sure? Resetting will lose all custom values."
+#~ msgid "Are you sure?  Resetting will lose all custom values."
+#~ msgstr ""
+#~ "ایا اطمینان دارید؟ این گزینه همه تنظیمات شما را به روز اول بازمیگرداند."
+
+#, fuzzy
+#~| msgid "Download"
+#~ msgid "Download Data File"
+#~ msgstr "دانلود"
+
+#, fuzzy
+#~| msgid "New version is detected"
+#~ msgid "No media selected"
+#~ msgstr "نسخه جدیدی در دسترس است"
+
+#, fuzzy
+#~| msgid "Action"
+#~ msgid "Active"
+#~ msgstr "عملیات"
+
+#, fuzzy
+#~| msgid "Generate report"
+#~ msgid "Redux Generator"
+#~ msgstr "ایجاد گزارش"
+
+#, fuzzy
+#~| msgid "Only one email address"
+#~ msgid "Email Address"
+#~ msgstr "فقط یک آدرس ایمیل مجاز است"
+
+#, fuzzy
+#~| msgid "Version"
+#~ msgid "Version %s"
+#~ msgstr "نسخه"
+
+#, fuzzy
+#~| msgid "New version is detected"
+#~ msgid "New in this Release"
+#~ msgstr "نسخه جدیدی در دسترس است"
+
+#, fuzzy
+#~| msgid "Generate report"
+#~ msgid "Get System Report"
+#~ msgstr "ایجاد گزارش"
+
+#, fuzzy
+#~| msgid "Version"
+#~ msgid "Redux Version"
+#~ msgstr "نسخه"
+
+#, fuzzy
+#~| msgid "Version"
+#~ msgid "WP Version"
+#~ msgstr "نسخه"
+
+#, fuzzy
+#~| msgid "Version"
+#~ msgid "PHP Version"
+#~ msgstr "نسخه"
+
+#, fuzzy
+#~| msgid "Version"
+#~ msgid "MySQL Version"
+#~ msgstr "نسخه"
+
+#, fuzzy
+#~| msgid "Plugins"
+#~ msgid "Active Plugins"
+#~ msgstr "افزونه ها"
+
+#, fuzzy
+#~| msgid "Themes"
+#~ msgid "Theme"
+#~ msgstr "پوسته ها"
+
+#, fuzzy
+#~| msgid "Generate report"
+#~ msgid "Generate a Support URL"
+#~ msgstr "ایجاد گزارش"
+
+#, fuzzy
+#~| msgid "buy support"
+#~ msgid "Get Support"
+#~ msgstr ""
+#~ "با مراجعه به بخش دانلودها در حساب کاربری خود در سایت ژاکت می توانید نسبت "
+#~ "به تمدید پشتیبانی اقدام نمایید و پس از آن با ارسال تیکت پشتیبانی به "
+#~ "فروشنده، نسبت به شرح مشکل و اخذ راهنمایی اقدام نمایید."
+
+#, fuzzy
+#~| msgid "buy support"
+#~ msgid "Support"
+#~ msgstr ""
+#~ "با مراجعه به بخش دانلودها در حساب کاربری خود در سایت ژاکت می توانید نسبت "
+#~ "به تمدید پشتیبانی اقدام نمایید و پس از آن با ارسال تیکت پشتیبانی به "
+#~ "فروشنده، نسبت به شرح مشکل و اخذ راهنمایی اقدام نمایید."
+
+#, fuzzy
+#~| msgid "Multi Checkbox Option"
+#~ msgid "Checkbox Option"
+#~ msgstr "گزینه چند انتخابی"
+
+#~ msgid "No validation can be done on this field type"
+#~ msgstr "هیچ اعتبار سنجی روی این نوع ورودی ممکن نیست"
+
+#~ msgid "This is the description field, again good for additional info."
+#~ msgstr "این یک فیلد توضیح میباشد."
+
+#~ msgid "Multi Checkbox Option"
+#~ msgstr "گزینه چند انتخابی"
+
+#, fuzzy
+#~| msgid "Multi Checkbox Option"
+#~ msgid "Multi Checkbox Option (with menu data)"
+#~ msgstr "گزینه چند انتخابی"
+
+#, fuzzy
+#~| msgid "Multi Checkbox Option"
+#~ msgid "Multi Checkbox Option (with sidebar data)"
+#~ msgstr "گزینه چند انتخابی"
+
+#, fuzzy
+#~| msgid "Multi Checkbox Option"
+#~ msgid "Multi Text Option"
+#~ msgstr "گزینه چند انتخابی"
+
+#, fuzzy
+#~| msgid "No validation can be done on this field type"
+#~ msgid "Only color validation can be done on this field type"
+#~ msgstr "هیچ اعتبار سنجی روی این نوع ورودی ممکن نیست"
+
+#, fuzzy
+#~| msgid "Action"
+#~ msgid "Section"
+#~ msgstr "عملیات"
+
+#, fuzzy
+#~| msgid "go to zhaket option"
+#~ msgid "Button Set Option"
+#~ msgstr ""
+#~ "به پنل مدیریت فایل ها در هاست خود مراجعه کرده و با تغییر نام پوشه مربوط به "
+#~ "پلاگین یا قالب، آن را از کار بیاندازید تا بتوانید مجددا به پیشخوان مدیریتی "
+#~ "وردپرس دسترسی یافته و نسبت به حذف و نصب مجدد نسخه قبلی از روی نسخه پشتیبان "
+#~ "اقدام کنید. "
+
+#, fuzzy
+#~| msgid "Multi Checkbox Option"
+#~ msgid "Multi Select Option"
+#~ msgstr "گزینه چند انتخابی"
+
+#, fuzzy
+#~| msgid "Multi Checkbox Option"
+#~ msgid "Pages Multi Select Option"
+#~ msgstr "گزینه چند انتخابی"
+
+#, fuzzy
+#~| msgid "Multi Checkbox Option"
+#~ msgid "Tags Multi Select Option"
+#~ msgstr "گزینه چند انتخابی"
+
+#, fuzzy
+#~| msgid "Multi Checkbox Option"
+#~ msgid "Menus Select Option"
+#~ msgstr "گزینه چند انتخابی"
+
+#, fuzzy
+#~| msgid "Multi Checkbox Option"
+#~ msgid "Menus Multi Select Option"
+#~ msgstr "گزینه چند انتخابی"
+
+#, fuzzy
+#~| msgid "Multi Checkbox Option"
+#~ msgid "Post Type Multi Select Option"
+#~ msgstr "گزینه چند انتخابی"
+
+#, fuzzy
+#~| msgid "Multi Checkbox Option"
+#~ msgid "Posts Multi Select Option"
+#~ msgstr "گزینه چند انتخابی"
+
+#, fuzzy
+#~| msgid "Rollback"
+#~ msgid "Callback"
+#~ msgstr "بازگردانی از فایل پشتیبان"
+
+#, fuzzy
+#~| msgid "Multi Checkbox Option"
+#~ msgid "WPML Multi Checkbox"
+#~ msgstr "گزینه چند انتخابی"
+
+#~ msgid "Offered by Zhaket"
+#~ msgstr "ارائه شده توسط ژاکت"
+
+#~ msgid "All rights reserved for <a href=\"https://zhaket.com\">zhaket.com</a>"
+#~ msgstr ""
+#~ "کلیه حقوق مادی و معنوی این افزونه متعلق <a href=\"https://zhaket.com"
+#~ "\">zhaket.com</a> است و هرگونه کپی برداری از آن غیرمجاز و پیگرد قانونی "
+#~ "دارد."
+
+#~ msgid "terms and conditions"
+#~ msgstr "قوانین و مقررات"
+
+#~ msgid "No validation can be run on this field type"
+#~ msgstr "اعتبار سنجی در این نوع فیلد انجام نمی شود"
+
+#~ msgid "zhaket updater problem"
+#~ msgstr "مشکل در افزونه به‌روز‌رسان هوشمند"
+
+#~ msgid "dismiss this notice"
+#~ msgstr "توقف نمایش این پیام"
+
+#~ msgid "zhaket updater"
+#~ msgstr "به‌روز‌رسان هوشمند"
+
+#~ msgid "Creat date"
+#~ msgstr "تاریخ ایجاد"
+
+#~ msgid "restore"
+#~ msgstr "بازگردانی"
+
+#~ msgid ""
+#~ "if you have any problem with this plugin , and after call with support "
+#~ "center, send this report to zhaket support team for check your problem."
+#~ msgstr ""
+#~ "در صورت داشتن هر گونه مشکل ٬ بعد از تماس با بخش پشتبانی ٬ درصورت لزوم به "
+#~ "ارسال گزارش سیستمی٬ از این گزینه استفاده نمایید."
+
+#~ msgid "generate report"
+#~ msgstr "ایجاد فایل گزارش"
+
+#~ msgid "download"
+#~ msgstr "دانلود"
+
+#~ msgid "delete"
+#~ msgstr "حذف"
+
+#~ msgid "new update available for your website"
+#~ msgstr "به روز رسانی جدید برای وبسایت شما وجود دارد"
+
+#~ msgid "agreement"
+#~ msgstr "موافقت نامه"
+
+#~ msgid "check for update"
+#~ msgstr "بررسی به روز رسانی"
+
+#~ msgid "change settings of check for update on plugins and themes"
+#~ msgstr "تغییر تنظیمات بررسی به روز رسانی افزونه ها و پوسته ها"
+
+#~ msgid ""
+#~ "selected plugins always check for update and suggest you. if you dont want "
+#~ "to suggest update for spacial plugin (customized plugin or not from "
+#~ "Zhaket) deselect this. "
+#~ msgstr ""
+#~ "افزونه های انتخاب شده ٬ همواره برای بروز رسانی بررسی خواهند شد. در صورت "
+#~ "عدم تمایل به اعلام آپدیت ٬ آنرا از انتخاب خارج نمایید. (برای افزونه های "
+#~ "سفارشی سازی شده)"
+
+#~ msgid "check all plugins"
+#~ msgstr "بررسی همه افزونه ها"
+
+#~ msgid ""
+#~ "selected themes always check for update and suggest you. if you dont want "
+#~ "to suggest update for spacial theme (customized theme or not from Zhaket) "
+#~ "deselect this. "
+#~ msgstr ""
+#~ "پوسته های انتخاب شده ٬ همواره برای بروز رسانی بررسی خواهند شد. در صورت عدم "
+#~ "تمایل به اعلام آپدیت٬ آنرا از انتخاب خارج نمایید. (برای پوسته های سفارشی "
+#~ "سازی شده)"
+
+#~ msgid "check all themes"
+#~ msgstr "بررسی همه پوسته ها"
+
+#~ msgid "removed old backup"
+#~ msgstr "پاک کردن نسخه های قدیمی"
+
+#~ msgid "if active, after some time or count , last backup was removed"
+#~ msgstr ""
+#~ "در صورت فعال بودن٬ بعد از تعداد تایین شده٬ اخرین بکاپ ها پاک خواهند شد"
+
+#~ msgid "how many backup must keep for each items"
+#~ msgstr "چه تعداد بکاپ ذخیره شود"
+
+#~ msgid "big number maybe fill your host"
+#~ msgstr "عدد بزرگر ممکن است باعث پر شدن هاست شما شود."
+
+#~ msgid "please enter number (1,2,....)"
+#~ msgstr "لطفا مقادیر عددی وارد نمایید (مانند : ۱ یا ۲ یا ...)"
+
+#~ msgid "all of old backup is hear"
+#~ msgstr "بکاپ های گرفته شده"
+
+#~ msgid "all of old backup for restore"
+#~ msgstr "بکاپ های قابل بازگردانی"
+
+#~ msgid "notification settings"
+#~ msgstr "تنظیمات اطلاع رسانی"
+
+#~ msgid "set notification settings"
+#~ msgstr "تنظیمات اعلامیه ها"
+
+#~ msgid "send update notification"
+#~ msgstr "ارسال ایمیل اطلاع رسانی به روز‌رسانی ها"
+
+#~ msgid ""
+#~ "if active and your plugins or theme need update, send email to you for "
+#~ "alert"
+#~ msgstr ""
+#~ "در صورت فعال بودن این گزینه٬ ایمیلی حاوی نام پلاگین ها و قالب هایی که نیاز "
+#~ "به آپدیت دارند برای شما ارسال خواهد شد."
+
+#~ msgid "show admin notification"
+#~ msgstr "نمایش پیام های اطلاع رسانی در بخش ادمین"
+
+#~ msgid ""
+#~ "if active this plugin allow to show notification to you. if disable All "
+#~ "notifications disabled"
+#~ msgstr ""
+#~ "در صورت فعال بودن، شما اجازه داده اید که اعلانیه های گوناگون در بخش ادمین "
+#~ "وردپرس نمایش داده شوند. در صورت غیر فعال کردن همه اعلان ها خاموش خواهد شد."
+
+#~ msgid "send admin notification to email"
+#~ msgstr "ارسال اعلانیه ها به ایمیل"
+
+#~ msgid ""
+#~ "if active this plugin allow to send notification to your email. if disable "
+#~ "All notifications disabled"
+#~ msgstr "در صورت فعال بودن، اعلانیه های مهم به ایمیل شما ارسال خواهد شد."
+
+#~ msgid "email for received notification"
+#~ msgstr "ایمیل گیرنده"
+
+#~ msgid "only one email address"
+#~ msgstr "فقط یک ایمیل وارد نمایید"
+
+#~ msgid "please enter valid email address"
+#~ msgstr "لطفا ایمیل معتبر وارد نمایید"
+
+#~ msgid "send email delay"
+#~ msgstr "چند روز یک بار"
+
+#~ msgid "send one email every selected day"
+#~ msgstr "ارسال ایمیل هر چند روز یک بار"
+
+#~ msgid "days"
+#~ msgstr "روز یک بار"
+
+#~ msgid "please enter valid number"
+#~ msgstr "لطفا یک عدد وارد نمایید"
+
+#~ msgid "settings"
+#~ msgstr "تنظیمات"
+
+#~ msgid "refresh updates"
+#~ msgstr "بررسی دستی"
+
+#~ msgid "invalid domain address, you cannot use in localhost."
+#~ msgstr "آدرس دامنه اشتباه میباشد. این کار از لوکال هاست امکان نخواهد داشت."
+
+#~ msgid "your domain not validation.your domain cannot access."
+#~ msgstr ""
+#~ "تایید احراز هویت دامنه شما به درستی انجام نشد. (احتمال مشکل در دیوار آتش "
+#~ "شما)"
+
+#~ msgid "authentication failed. your credential is not accepted in zhaket.com"
+#~ msgstr ""
+#~ "اهراز هویت تایید نشده . اعتبار دامنه شما در سرویس اعتبار سنجی ژاکت رد شد."
+
+#~ msgid "your authorization key is expired. please try again."
+#~ msgstr "کلید تایید هویت منقضی شده. مجدد تلاش نمایید."
+
+#~ msgid ""
+#~ "you are not customer of this product. if you buy this product, must change "
+#~ "support domain to this domain."
+#~ msgstr ""
+#~ "شما خریدار این محصول نیستید. اگر اطمینان دارید که این محصول را خریده اید٬ "
+#~ "دامنه این وبسایت را برای تیکت پشتیبانی آن ثبت نمایید."
+
+#~ msgid ""
+#~ "your requested product is not in zhaket. please send this problem to "
+#~ "zhaket."
+#~ msgstr ""
+#~ "محصول درخواستی در ژاکت موجود نمیباشد. لطفا خطا را به ژاکت گزارش دهید."
+
+#~ msgid "download link is not accessible, this is reported to zhaket"
+#~ msgstr ""
+#~ "لینک دانلود در دسترس نیست، گزارش این مورد به ژاکت ارسال شد. این مشکل به "
+#~ "سرعت رفع خواهد شد."
+
+#~ msgid "first update \"zhaket updater\" to update other plugins"
+#~ msgstr ""
+#~ "پلاگین 'به‌روز‌رسان هوشمند' اخرین نسخه نمیباشد٬ تا زمانی که به آخرین نسخه به "
+#~ "روز رسانی ننمایید٬ امکان به روز رسانی دیگر افزونه ها وجود ندارد."
+
+#~ msgid "zhaket updater has been updated with core"
+#~ msgstr "افزونه به روز رسان هوشمند توسط هسته به اخرین نسخه به روز رسانی شد"
+
+#~ msgid ""
+#~ "A plugin backup can not be created since a destination path for the backup "
+#~ "file could not be found."
+#~ msgstr "نسخه پشتیبان ساخته نشد٬ از این جهت که پوشه آن در دسترس نیست."
+
+#~ msgid ""
+#~ "A plugin backup can not be created as creation of the zip file failed with "
+#~ "the following error: %1$s"
+#~ msgstr ""
+#~ "نسخه پشتیبان ساخته نشد٬ از این جهت که در هنگام ایجاد فایل فشرده مشکلی "
+#~ "ایجاد شده است: %1$s"
+
+#~ msgid "request update send"
+#~ msgstr "درخواست به روز رسانی ارسال شد"
+
+#~ msgid "error in connection: %s"
+#~ msgstr "اشکال در ارتباط با ژاکت: %s"
+
+#~ msgid "restore request received"
+#~ msgstr "درخواست بازگردانی بکاپ دریافت شد"
+
+#~ msgid "restore error received:%s"
+#~ msgstr "بازگردانی بکاپ دچار خطا شد: %s"
+
+#~ msgid "new version is detected"
+#~ msgstr "نسخه جدید یافت شد"
+
+#~ msgid "no changes happened"
+#~ msgstr "هیچ تغییری روی نداده است"
+
+#~ msgid "server connection problem happen. "
+#~ msgstr "امکان ارتباط با سرور وجود ندارد"
+
+#~ msgid "server connection problem accrued. "
+#~ msgstr "در ارتباط با سرور مشکلی پیش آمده"
+
+#~ msgid "ionCube problem"
+#~ msgstr "مشکلات ionCube"
+
+#~ msgid "for solve this problem go to this link"
+#~ msgstr "برای حل این مشکل به این صفحه مراجعه نمایید."
+
+#~ msgid "manual"
+#~ msgstr "راهنما"
+
+#~ msgid "must be do before update"
+#~ msgstr "پیش از به روز رسانی چه کارهایی باید انجام بدهم؟"
+
+#~ msgid "to go file panel and backup the plugins"
+#~ msgstr ""
+#~ "با مراجعه به پنل مدیریت فایل ها در هاست خود یا استفاده از ابزارهای مدیریت "
+#~ "اف تی پی، از فایل فعلی محصول در پوشه wp-content/plugins یک نسخه پشتیبان "
+#~ "تهیه کنید."
+
+#~ msgid "check it is compatible with other items"
+#~ msgstr ""
+#~ "از سازگار بودن نسخه جدید محصول با نسخه وردپرس و سایر محصولات اعم از افزونه "
+#~ "ها و قالب سایت خود اطمینان کسب کنید."
+
+#~ msgid "check change of plugin"
+#~ msgstr ""
+#~ "جزییات تغییرات محصول را در صفحه محصول روی سایت ژاکت یا در سایت اصلی سازنده "
+#~ "ان مطالعه کرده سپس به روزرسانی به نسخه جدید را اجرا کنید."
+
+#~ msgid "must rapid Update?"
+#~ msgstr ""
+#~ "آیا به محض مشاهده پیام به روز رسانی لازم است تا به روز رسانی را انجام دهم؟"
+
+#~ msgid "it is important"
+#~ msgstr ""
+#~ "یکی از مهم ترین مولفه ها برای پایدار بودن سرعت و امنیت سایت های وردپرسی، "
+#~ "به روز بودن قالب ها و افزونه هایی است که روی آن نصب شده اند. اما پیش از به "
+#~ "روز رسانی محصولات باید توجه کنید این به روز رسانی موجب تداخل با سایر "
+#~ "محصولات شما نشود. لذا پیشنهاد می شود در صورتی که در تغییرات محصول، موارد و "
+#~ "مشکلات امنیتی رفع شده است نسبت به به روزرسانی سریع اقدام نمایید و چنانچه "
+#~ "به روز رسانی صرفا شامل اضافه شدن امکانات جدید است پس از بررسی عمیق تر "
+#~ "تغییرات، به روز رسانی را اعمال کنید."
+
+#~ msgid "if has problem after update?"
+#~ msgstr ""
+#~ "چنانچه پس از به روز رسانی به نسخه جدید با مشکل دسترسی به پیشخوان مدیریتی "
+#~ "وردپرس مواجه شدم چه کار باید انجام دهم؟"
+
+#~ msgid "if need support?"
+#~ msgstr ""
+#~ "چنانچه پس از به روز رسانی نیازمند راهنمایی باشم چه کار باید انجام دهم؟"
+
+#~ msgid "if your support not finished"
+#~ msgstr ""
+#~ "در صورتی که مدت پشتیبانی تضمین شده شما در ژاکت به پایان نرسیده باشد می "
+#~ "توانید با مراجعه به حساب کاربری خود در سایت ژاکِت و ارسال تیکت پشتیبانی به "
+#~ "فروشنده، نسبت به شرح مشکل و اخذ راهنمایی اقدام نمایید. "
+
+#~ msgid "if my support is end?"
+#~ msgstr ""
+#~ "چنانچه مدت پشتیبانی تضمین شده در ژاکت به پایان رسیده باشد چه کار باید "
+#~ "انجام دهم؟"
+
+#~ msgid "if need full manual of this plugin?"
+#~ msgstr ""
+#~ "چطور به آموزش کامل نحوه استفاده از به روز رسان هوشمند ژاکت دسترسی داشته "
+#~ "باشم؟"
+
+#~ msgid "go to full manual"
+#~ msgstr ""
+#~ "کافیست از منوی به روز رسان هوشمند ژاکت در پیشخوان مدیریتی سایت وردپرسی خود "
+#~ "روی گزینه ...... کلیک کرده و در ادامه بخش آموزش استفاده را کلیک کنید."
+
+#~ msgid "restore backup"
+#~ msgstr "بازگردانی بکاپ"
+
+#~ msgid "zhaket restore"
+#~ msgstr "بازگردانی ژاکت"
+
+#~ msgid "download link is not accessible"
+#~ msgstr "لینک دانلود در دسترس نیست"
+
+#~ msgid "Theme name: %s | your version: %s | new version: %s"
+#~ msgstr "نام قالب:  %s | نسخه کنونی: %s  | نسخه جدید: %s"
+
+#~ msgid "Plugin name: %s | your version: %s | new version: %s"
+#~ msgstr "نام افزونه:  %s | نسخه کنونی: %s  | نسخه جدید: %s"
+
+#~ msgid "update date: "
+#~ msgstr "تاریخ ایجاد: "
+
+#~ msgid " version: "
+#~ msgstr "نسخه:"
+
+#~ msgid " date: "
+#~ msgstr "تاریخ:"

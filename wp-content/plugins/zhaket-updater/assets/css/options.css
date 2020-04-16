@@ -1,0 +1,146 @@
+@import url("https://cdn.rawgit.com/rastikerdar/vazir-font/v20.0.0/dist/font-face.css");
+
+
+body.toplevel_page_ZhUpClient_options.rtl .redux-container {
+    font-family: Vazir, Tahoma, "DejaVu Sans", helvetica, arial, freesans, sans-serif;
+}
+body.toplevel_page_ZhUpClient_options.rtl #redux-footer.sticky-footer-fixed{
+    left: 21px;
+    right: initial!important;
+}
+body.toplevel_page_ZhUpClient_options.rtl .redux-container h1,
+body.toplevel_page_ZhUpClient_options.rtl .redux-container h2,
+body.toplevel_page_ZhUpClient_options.rtl .redux-container h3,
+body.toplevel_page_ZhUpClient_options.rtl .redux-container h4,
+body.toplevel_page_ZhUpClient_options.rtl .redux-container h5,
+body.toplevel_page_ZhUpClient_options.rtl .redux-container h6 {
+    font-family: Vazir, Tahoma, "DejaVu Sans", helvetica, arial, freesans, sans-serif;
+}
+body.toplevel_page_ZhUpClient_options table.backup_list{
+    margin-right: 80px;
+}
+body.toplevel_page_ZhUpClient_options  a.button {
+    margin: 0px 4px;
+}
+
+body.toplevel_page_ZhUpClient_options .redux-container .redux-main .form-table tr.thead{
+    font-weight: bold;
+    background-color: #e8e8e8;
+}
+body.toplevel_page_ZhUpClient_options .redux-container ul.zhaket-manual-ul{
+    margin-right: 5px;
+}
+body.toplevel_page_ZhUpClient_options .redux-container ul.zhaket-manual-ul li:before{
+    content: ' ';
+    width: 5px;
+    height: 5px;
+    border-radius: 50px;
+    display: inline-block;
+    background: #a9a9a9;
+    vertical-align: middle;
+    margin-left: 5px;
+}
+body.toplevel_page_ZhUpClient_options table.backup_list tr{
+    border-bottom: 1px solid #cecece;
+    padding: 10px 0;
+    display: block;
+}
+body.toplevel_page_ZhUpClient_options table.backup_list p{
+    padding: 10px 0;
+}
+body.toplevel_page_ZhUpClient_options table.backup_list tr td:first-child{
+    border-left: 1px solid #cecece;
+    width: 200px;
+    font-weight: bold;
+    font-size: 12px;
+}
+body.toplevel_page_ZhUpClient_options table.backup_list tr td{
+    padding: 0 10px;
+}
+
+body.toplevel_page_ZhUpClient_options a.btn {
+    padding: 6px 10px;
+    margin: 0 2px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+body.toplevel_page_ZhUpClient_options a.btn.btn-success {
+    background: #19669e;
+    color: white;
+}
+body.toplevel_page_ZhUpClient_options a.btn.btn-danger {
+    background: #9e2425;
+    color: white;
+}
+
+body.toplevel_page_ZhUpClient_options .redux-container #redux-header {
+    font-family: Vazir, Tahoma, "DejaVu Sans", helvetica, arial, freesans, sans-serif !important;
+}
+body.toplevel_page_ZhUpClient_options.admin-color-fresh #redux-header,
+body.toplevel_page_ZhUpClient_options.wp-customizer #redux-header {
+    background: #fea000;
+    border-color: #4d4d4d;
+}
+
+body.toplevel_page_ZhUpClient_options.admin-color-fresh #redux-header .display_header span,
+body.toplevel_page_ZhUpClient_options.wp-customizer #redux-header .display_header span {
+    color: #fff;
+}
+body.toplevel_page_ZhUpClient_options.rtl .redux-container .redux-main {
+    margin-left: 0;
+}
+body.toplevel_page_ZhUpClient_options .redux-container .redux-main .form-table tr th,
+body.toplevel_page_ZhUpClient_options .redux-container .redux-main .form-table tr td {
+    padding: 8px 10px;
+}
+body.toplevel_page_ZhUpClient_options.admin-color-fresh .redux-sidebar .redux-group-menu li.active.hasSubSections ul.subsection li a:hover,
+body.toplevel_page_ZhUpClient_options.admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li a:hover,
+body.toplevel_page_ZhUpClient_options.admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li a,
+body.toplevel_page_ZhUpClient_options.wp-customizer .redux-sidebar .redux-group-menu li.active.hasSubSections ul.subsection li a:hover,
+body.toplevel_page_ZhUpClient_options.wp-customizer .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li a:hover {
+    background: #8c8c8c;
+    text-shadow: none;
+    color: #fff;
+}
+body.toplevel_page_ZhUpClient_options.admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild ul.subsection li.active a {
+    background: #0073aa !important;
+    text-shadow: 1px 1px #002e44 !important;
+}
+body.toplevel_page_ZhUpClient_options.rtl .redux-container #redux-header .display_header {
+    float: right;
+    margin: 20px 10px;
+    position: relative;
+}
+body.toplevel_page_ZhUpClient_options .redux-container #redux-header .display_header h2 {
+    line-height: 57px;
+    font-size: 22px;
+}
+body.toplevel_page_ZhUpClient_options .redux-container #redux-header .display_header h2 img {
+    float: left;
+    margin-right: 30px;
+}
+body.toplevel_page_ZhUpClient_options.rtl .redux-container #redux-header .display_header h2 img {
+    float: right;
+    margin-right: 0;
+    margin-left: 30px;
+}
+body.toplevel_page_ZhUpClient_options .redux-container #redux-header .display_header span {
+    position: absolute;
+    top: 30px;
+}
+body.toplevel_page_ZhUpClient_options.rtl .redux-container #redux-header .display_header span {
+    left: -35px;
+}
+body.toplevel_page_ZhUpClient_options .redux-container .redux-action_bar .spinner {
+    float: right;
+}
+body.toplevel_page_ZhUpClient_options #manual_zhaket_video{
+    width: 750px;
+    margin: 0 auto;
+    border-radius: 5px;
+    overflow: hidden
+}
+#wpbody-content .wrap{
+    min-height: initial;
+}

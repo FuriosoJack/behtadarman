@@ -1,0 +1,238 @@
+2020-03-28T17:14:13+00:00 NOTICE sync.started :: Starting Sync :: Sat, Mar 28, 2020 5:14 PM
+2020-03-28T17:14:13+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Coupons_Initial_Sync starts in the next minute
+2020-03-28T17:14:17+00:00 NOTICE coupon_sync.completed :: Done with the coupon sync, queuing up products.
+2020-03-28T17:14:17+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products starts in the next minute
+2020-03-28T17:14:18+00:00 ERROR product_sync.error :: addStoreProduct :: 798 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1789 in /var/www/coronakala.com/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-03-28T17:14:18+00:00 ERROR product_sync.error :: addStoreProduct :: 811 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1789 in /var/www/coronakala.com/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-03-28T17:14:19+00:00 ERROR product_sync.error :: addStoreProduct :: 812 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1789 in /var/www/coronakala.com/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-03-28T17:14:19+00:00 ERROR product_sync.error :: addStoreProduct :: 813 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1789 in /var/www/coronakala.com/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-03-28T17:14:20+00:00 ERROR product_sync.error :: addStoreProduct :: 815 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1789 in /var/www/coronakala.com/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-03-28T17:14:20+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products starts in the next minute
+2020-03-28T17:14:21+00:00 ERROR product_sync.error :: addStoreProduct :: 816 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1789 in /var/www/coronakala.com/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-03-28T17:14:21+00:00 ERROR product_sync.error :: addStoreProduct :: 817 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1789 in /var/www/coronakala.com/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-03-28T17:14:22+00:00 ERROR product_sync.error :: addStoreProduct :: 819 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1789 in /var/www/coronakala.com/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-03-28T17:14:22+00:00 ERROR product_sync.error :: addStoreProduct :: 820 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1789 in /var/www/coronakala.com/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-03-28T17:14:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products starts in the next minute
+2020-03-28T17:14:25+00:00 NOTICE product_sync.completed :: Done with the product sync :: queuing up the orders next!
+2020-03-28T17:14:25+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Orders starts in the next minute
+2020-03-28T17:14:27+00:00 NOTICE order_submit.completed :: Done with the order sync.
+2020-03-28T17:14:27+00:00 NOTICE sync.completed :: Finished Sync :: Sat, Mar 28, 2020 5:14 PM
+2020-03-28T17:45:51+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 879
+2020-03-28T17:46:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit starts in the next minute :: obj_id 1
+2020-03-28T17:47:28+00:00 NOTICE member.sync :: Subscribed Member ariawp3209@gmail.com :: Array
+(
+    [status_if_new] => 1
+    [merge_fields] => Array
+        (
+            [FNAME] => آریا
+            [LNAME] => وردپرس
+        )
+
+)
+
+2020-03-28T18:44:44+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit starts in the next minute :: obj_id 1
+2020-03-28T18:45:40+00:00 NOTICE member.sync :: Updated Member ariawp3209@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => آریا
+            [LNAME] => وردپرس
+        )
+
+)
+
+2020-03-28T19:12:05+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 879
+2020-03-28T19:12:05+00:00 NOTICE debug :: Order ID 879 was pending and is now cancelled :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2020-03-28T19:20:00+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit starts in the next minute :: obj_id 1
+2020-03-28T19:20:00+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 901
+2020-03-28T19:20:17+00:00 NOTICE member.sync :: Updated Member ariawp3209@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => آریا
+            [LNAME] => وردپرس
+        )
+
+)
+
+2020-03-28T19:21:25+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit starts in the next minute :: obj_id 1
+2020-03-28T19:21:48+00:00 NOTICE member.sync :: Updated Member ariawp3209@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => آریا
+            [LNAME] => وردپرس
+        )
+
+)
+
+2020-03-28T19:21:52+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit starts in the next minute :: obj_id 1
+2020-03-28T19:21:54+00:00 NOTICE member.sync :: Updated Member ariawp3209@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => آریا
+            [LNAME] => وردپرس
+        )
+
+)
+
+2020-03-28T19:22:08+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit starts in the next minute :: obj_id 1
+2020-03-28T19:22:18+00:00 NOTICE member.sync :: Updated Member ariawp3209@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => آریا
+            [LNAME] => وردپرس
+        )
+
+)
+
+2020-03-28T19:26:44+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit starts in the next minute :: obj_id 1
+2020-03-28T19:27:14+00:00 NOTICE member.sync :: Updated Member ariawp3209@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => آریا
+            [LNAME] => وردپرس
+        )
+
+)
+
+2020-03-28T19:27:49+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update starts in the next minute :: obj_id 9a1deac7831ed18b9919bcdaa268738e
+2020-03-28T19:27:53+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 902
+2020-03-28T19:28:29+00:00 ERROR abandoned_cart.error :: email: arashrahimi46@gmail.com :: attempting product update :: Resource Not Found :: The requested resource could not be found.
+2020-03-28T19:28:30+00:00 NOTICE product_submit.error :: addStoreProduct :: #812 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1789 in /var/www/coronakala.com/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-03-28T19:28:30+00:00 ERROR abandoned_cart.error :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1789 in /var/www/coronakala.com/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-03-28T19:29:20+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 903
+2020-03-28T19:29:21+00:00 NOTICE debug :: Order ID 903 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://coronakala.com/?wc-ajax=add_to_cart
+        )
+
+)
+
+2020-03-28T19:29:21+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update starts in the next minute :: obj_id 695c82d08a3757c9237a6e3309c5264d
+2020-03-28T19:29:51+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit starts in the next minute :: obj_id 1
+2020-03-28T19:29:51+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 901
+2020-03-28T19:29:51+00:00 NOTICE debug :: Order ID 901 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://coronakala.com/wp-admin/admin-ajax.php
+        )
+
+)
+
+2020-03-28T19:30:00+00:00 ERROR abandoned_cart.error :: email: amir.hsmart@gmail.com :: attempting product update :: Resource Not Found :: The requested resource could not be found.
+2020-03-28T19:30:01+00:00 NOTICE product_submit.error :: addStoreProduct :: #812 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1789 in /var/www/coronakala.com/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-03-28T19:30:01+00:00 ERROR abandoned_cart.error :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1789 in /var/www/coronakala.com/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-03-28T19:30:02+00:00 NOTICE member.sync :: Updated Member ariawp3209@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => آریا
+            [LNAME] => وردپرس
+        )
+
+)
+
+2020-03-28T19:30:47+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit starts in the next minute :: obj_id 1
+2020-03-28T19:30:47+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 904
+2020-03-28T19:31:08+00:00 ERROR order_submit.tracing_error :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1789 in /var/www/coronakala.com/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-03-28T19:31:08+00:00 NOTICE member.sync :: Updated Member ariawp3209@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => آریا
+            [LNAME] => وردپرس
+        )
+
+)
+
+2020-03-28T19:32:13+00:00 NOTICE debug :: Order ID 903 was processing and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2020-03-28T19:32:13+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 903
+2020-03-28T19:32:15+00:00 ERROR order_submit.tracing_error :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1789 in /var/www/coronakala.com/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-03-28T19:34:35+00:00 NOTICE system.debug :: order 903 is in on-hold status, and is being skipped for now.
+2020-03-28T19:37:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit starts in the next minute :: obj_id 1
+2020-03-28T19:38:38+00:00 NOTICE member.sync :: Updated Member ariawp3209@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => آریا
+            [LNAME] => وردپرس
+        )
+
+)
+
+2020-03-28T19:41:13+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit starts in the next minute :: obj_id 1
+2020-03-28T19:41:15+00:00 NOTICE member.sync :: Updated Member ariawp3209@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => آریا
+            [LNAME] => وردپرس
+        )
+
+)
+
+2020-03-28T19:42:37+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit starts in the next minute :: obj_id 1
+2020-03-28T19:43:30+00:00 NOTICE member.sync :: Updated Member ariawp3209@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => آریا
+            [LNAME] => وردپرس
+        )
+
+)
+
+2020-03-28T19:43:52+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit starts in the next minute :: obj_id 1
+2020-03-28T19:44:29+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit starts in the next minute :: obj_id 1
+2020-03-28T19:44:29+00:00 NOTICE member.sync :: Updated Member ariawp3209@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => آریا
+            [LNAME] => وردپرس
+        )
+
+)
+
+2020-03-28T19:44:30+00:00 NOTICE member.sync :: Updated Member ariawp3209@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => آریا
+            [LNAME] => وردپرس
+        )
+
+)
+
+2020-03-28T19:45:51+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit starts in the next minute :: obj_id 1
+2020-03-28T19:46:29+00:00 NOTICE member.sync :: Updated Member ariawp3209@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => آریا
+            [LNAME] => وردپرس
+        )
+
+)
+

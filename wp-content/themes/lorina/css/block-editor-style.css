@@ -1,0 +1,102 @@
+/*
+Theme Name: Lorina
+Description: Used to style the block editor.
+*/
+
+.wp-block{
+	max-width: 1920px;
+}
+
+.editor-post-title__block .editor-post-title__input{
+	font-family: 'Josefin Sans';
+}
+
+.editor-default-block-appender textarea.editor-default-block-appender__content{
+	font-family: 'Open Sans';
+}
+
+.editor-styles-wrapper div{
+	font-family: 'Open Sans';
+}
+
+.editor-styles-wrapper p,
+.editor-styles-wrapper ul,
+.editor-styles-wrapper li{
+	background-color: #fff;
+	color: #414141;
+	font-family: 'Open Sans';
+	font-size: 16px;
+	font-weight: 300;
+	line-height: 1.68;
+}
+
+.editor-styles-wrapper h1,
+.editor-styles-wrapper h2,
+.editor-styles-wrapper h3,
+.editor-styles-wrapper h4,
+.editor-styles-wrapper h5,
+.editor-styles-wrapper h6{
+	color: #414141;
+	font-weight: 600;
+	line-height: 1.2;
+	font-family: 'Josefin Sans';
+	margin: 0 0 20px;
+}
+
+.editor-styles-wrapper h1{
+	font-size: 32px;
+}
+
+.editor-styles-wrapper h2{
+	font-size: 30px;
+}
+
+.editor-styles-wrapper h3{
+	font-size: 28px;
+}
+
+.editor-styles-wrapper h4{
+	font-size: 26px;
+}
+
+.editor-styles-wrapper h5{
+	font-size: 24px;
+}
+
+.editor-styles-wrapper h6{
+	font-size: 22px;
+}
+
+.editor-rich-text__tinymce a{
+	color: #e08b8b;
+}
+
+.wp-block[data-align="wide"]{
+	max-width: 100%;
+}
+
+[data-type="core/image"][data-align="wide"] .wp-block-image{
+	width: 100%;
+}
+
+p.has-background{
+	padding: 15px 20px;
+	border-radius: 5px;
+}
+
+.wp-block-button__link{
+	background-color: #e08b8b;
+	border-radius: 2em;
+	padding: .5em 1em;
+	font-size: 1rem;
+	transition: all .3s ease;
+}
+
+.wp-block-button__link:hover{
+	background-color: #414141;
+	transition: all .3s ease;
+}
+
+.is-style-outline .wp-block-button__link:hover{
+	background-color: transparent;
+}

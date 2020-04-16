@@ -1,0 +1,76 @@
+<?php
+
+namespace Aws\CloudWatchEvents;
+
+use Aws\AwsClient;
+use Aws\Result;
+use GuzzleHttp\Promise\Promise;
+
+/**
+ * This client is used to interact with the **Amazon CloudWatch Events** service.
+ *
+ * @method Result activateEventSource( array $args = [] )
+ * @method Promise activateEventSourceAsync( array $args = [] )
+ * @method Result createEventBus( array $args = [] )
+ * @method Promise createEventBusAsync( array $args = [] )
+ * @method Result createPartnerEventSource( array $args = [] )
+ * @method Promise createPartnerEventSourceAsync( array $args = [] )
+ * @method Result deactivateEventSource( array $args = [] )
+ * @method Promise deactivateEventSourceAsync( array $args = [] )
+ * @method Result deleteEventBus( array $args = [] )
+ * @method Promise deleteEventBusAsync( array $args = [] )
+ * @method Result deletePartnerEventSource( array $args = [] )
+ * @method Promise deletePartnerEventSourceAsync( array $args = [] )
+ * @method Result deleteRule( array $args = [] )
+ * @method Promise deleteRuleAsync( array $args = [] )
+ * @method Result describeEventBus( array $args = [] )
+ * @method Promise describeEventBusAsync( array $args = [] )
+ * @method Result describeEventSource( array $args = [] )
+ * @method Promise describeEventSourceAsync( array $args = [] )
+ * @method Result describePartnerEventSource( array $args = [] )
+ * @method Promise describePartnerEventSourceAsync( array $args = [] )
+ * @method Result describeRule( array $args = [] )
+ * @method Promise describeRuleAsync( array $args = [] )
+ * @method Result disableRule( array $args = [] )
+ * @method Promise disableRuleAsync( array $args = [] )
+ * @method Result enableRule( array $args = [] )
+ * @method Promise enableRuleAsync( array $args = [] )
+ * @method Result listEventBuses( array $args = [] )
+ * @method Promise listEventBusesAsync( array $args = [] )
+ * @method Result listEventSources( array $args = [] )
+ * @method Promise listEventSourcesAsync( array $args = [] )
+ * @method Result listPartnerEventSourceAccounts( array $args = [] )
+ * @method Promise listPartnerEventSourceAccountsAsync( array $args = [] )
+ * @method Result listPartnerEventSources( array $args = [] )
+ * @method Promise listPartnerEventSourcesAsync( array $args = [] )
+ * @method Result listRuleNamesByTarget( array $args = [] )
+ * @method Promise listRuleNamesByTargetAsync( array $args = [] )
+ * @method Result listRules( array $args = [] )
+ * @method Promise listRulesAsync( array $args = [] )
+ * @method Result listTagsForResource( array $args = [] )
+ * @method Promise listTagsForResourceAsync( array $args = [] )
+ * @method Result listTargetsByRule( array $args = [] )
+ * @method Promise listTargetsByRuleAsync( array $args = [] )
+ * @method Result putEvents( array $args = [] )
+ * @method Promise putEventsAsync( array $args = [] )
+ * @method Result putPartnerEvents( array $args = [] )
+ * @method Promise putPartnerEventsAsync( array $args = [] )
+ * @method Result putPermission( array $args = [] )
+ * @method Promise putPermissionAsync( array $args = [] )
+ * @method Result putRule( array $args = [] )
+ * @method Promise putRuleAsync( array $args = [] )
+ * @method Result putTargets( array $args = [] )
+ * @method Promise putTargetsAsync( array $args = [] )
+ * @method Result removePermission( array $args = [] )
+ * @method Promise removePermissionAsync( array $args = [] )
+ * @method Result removeTargets( array $args = [] )
+ * @method Promise removeTargetsAsync( array $args = [] )
+ * @method Result tagResource( array $args = [] )
+ * @method Promise tagResourceAsync( array $args = [] )
+ * @method Result testEventPattern( array $args = [] )
+ * @method Promise testEventPatternAsync( array $args = [] )
+ * @method Result untagResource( array $args = [] )
+ * @method Promise untagResourceAsync( array $args = [] )
+ */
+class CloudWatchEventsClient extends AwsClient {
+}

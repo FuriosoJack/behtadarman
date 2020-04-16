@@ -1,0 +1,385 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: XSimply\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-03 21:46+0000\n"
+"PO-Revision-Date: 2020-01-03 21:47+0000\n"
+"Last-Translator: iljester <muradavi@gmail.com>\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.0.4\n"
+"X-Poedit-KeywordsList: ;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ."
+
+#: index.php:39 search.php:42 archive.php:40
+msgid "Previous Page"
+msgstr "Pagina precedente"
+
+#: index.php:40 search.php:43 archive.php:41
+msgid "Next Page"
+msgstr "Pagina successiva"
+
+#: index.php:41 image.php:54 search.php:44 archive.php:42
+msgid "Page"
+msgstr "Pagina"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Salta il contenuto"
+
+#: header.php:50
+msgid "Menu"
+msgstr "Menu"
+
+#: footer.php:23
+#, php-format
+msgid "Powered by %s"
+msgstr "Motorizzato %s"
+
+#: footer.php:27
+#, php-format
+msgid "Theme %s by %s"
+msgstr "Tema %s di %s"
+
+#: image.php:50 template-parts/content-page.php:22
+#: template-parts/content.php:48
+msgid "Pages:"
+msgstr "Pagine:"
+
+#: image.php:68
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Dimensione piena"
+
+#: image.php:86
+msgctxt "Parent post link"
+msgid ""
+"<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">"
+"%title</span>"
+msgstr ""
+"<span class=\"meta-nav\">Pubblicato in</span><br><span class=\"post-title\">"
+"%title</span>"
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Un commento su &ldquo;%1$s&rdquo;"
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s commento su &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s commenti su &ldquo;%2$s&rdquo;"
+
+#: comments.php:50
+msgid "Previous Comments"
+msgstr "Commenti precedenti"
+
+#: comments.php:51
+msgid "Next Comments"
+msgstr "Commenti successivi"
+
+#: comments.php:83
+msgid "Comments are closed."
+msgstr "I commenti sono chiusi."
+
+#. %s: search query.
+#: search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Risultato della ricerca per: %s"
+
+#: functions.php:50
+msgid "Primary"
+msgstr "Primario"
+
+#: functions.php:127
+msgid "Sidebar"
+msgstr "Barra Laterale"
+
+#: functions.php:129
+msgid "Add widgets here."
+msgstr "Aggiungi i widget qui."
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! La pagina non è stata trovata."
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Non ho trovato nulla in questa posizione. Perché non provi con uno dei link "
+"sotto o la funzione ricerca?"
+
+#: 404.php:31
+msgid "Most Used Categories"
+msgstr "Le Categorie più usate"
+
+#. %1$s: smiley
+#: 404.php:47
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Prova a cercare negli archivi mensili. %1$s"
+
+#: single.php:24
+msgctxt "Parent post link"
+msgid ""
+"<span class=\"meta-nav\">Published in</span><br/><span class=\"post-title\">"
+"%title</span>"
+msgstr ""
+"<span class=\"meta-nav\">Pubblicato in</span><br/><span class=\"post-title\">"
+"%title</span>"
+
+#: single.php:31
+msgid "Next Post"
+msgstr "Post successivo"
+
+#: single.php:32
+msgid "Next post:"
+msgstr "Post successivo:"
+
+#: single.php:34
+msgid "Previous Post"
+msgstr "Post precedente"
+
+#: single.php:35
+msgid "Previous post:"
+msgstr "Post precedente:"
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:35 inc/template-tags.php:105
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Modifica <span class=\"screen-reader-text\">%s</span>"
+
+#: template-parts/content-none.php:12
+msgid "Nothing Found"
+msgstr "Non ho trovato nulla"
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:22
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Pronto per pubblicare il tuo primo post? <a href=\"%1$s\">Parti da qui</a>."
+
+#: template-parts/content-none.php:35
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Spiacente, ma non ho trovato nulla con i tuoi termini di ricerca. Per favore,"
+" prova di nuovo con parole chiavi differenti."
+
+#: template-parts/content-none.php:42
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Sembra che non possiamo trovare quello che stai cercando. Forse la funzione "
+"ricerca può aiutare."
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:37
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Continua a leggere<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#. %s: post date.
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Pubblicato il %s"
+
+#. %s: post author.
+#: inc/template-tags.php:45
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "da %s"
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:64
+msgid "Archived:"
+msgstr "Archiviato:"
+
+#: inc/template-tags.php:65
+msgctxt "tags item separator"
+msgid ", "
+msgstr ", "
+
+#. 2: label, list of categories.
+#. 2: label, list of tags.
+#: inc/template-tags.php:68 inc/template-tags.php:76
+#, php-format
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:72
+msgid "Tagged:"
+msgstr "Etichettato:"
+
+#: inc/template-tags.php:73
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#. %s: post title
+#: inc/template-tags.php:88
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Lascia un commento<span class=\"screen-reader-text\"> su %s</span>"
+
+#: inc/customizer.php:31
+msgid "Light (default)"
+msgstr "Chiaro (Predefinito)"
+
+#: inc/customizer.php:32
+msgid "Metal"
+msgstr "Metallico"
+
+#: inc/customizer.php:33
+msgid "Sea"
+msgstr "Mare"
+
+#: inc/customizer.php:34
+msgid "Night"
+msgstr "Notte"
+
+#: inc/customizer.php:70
+msgid "Theme Colors"
+msgstr "Colori del Tema"
+
+#: inc/customizer.php:71
+msgid ""
+"Note. If you are using a background image, use the most suitable color "
+"scheme or set 1 in page opacity (background image section)."
+msgstr ""
+"Nota. Se stai usando un'immagine di sfondo, usa lo schema di colori più "
+"adatto o imposta 1 nella opacità pagina (sezione immagine di sfondo)."
+
+#: inc/customizer.php:87
+msgid "Allow customization below"
+msgstr "Permetti personalizzazione sotto"
+
+#: inc/customizer.php:88
+msgid "If set, you can customize header text and background color"
+msgstr ""
+"Se impostato puoi personalizzare il colore dello sfondo e del testo della "
+"testata"
+
+#: inc/customizer.php:103
+msgid "Page Opacity"
+msgstr "Opacità Pagina"
+
+#: inc/customizer.php:104
+msgid ""
+"Default 0.7. Set 1 for full color without transparency. 0 for full "
+"transparency."
+msgstr ""
+"Predefinito 0.7. Imposta 1 per il colore pieno senza trasparenze. 0 per una "
+"piena trasparenza."
+
+#: inc/customizer.php:122
+msgid "Background Image Header"
+msgstr "Immagine di sfondo della testata"
+
+#: inc/customizer.php:136
+msgid "Fixed Cover"
+msgstr "Cover fissa"
+
+#: inc/customizer.php:137
+msgid "Set image header like fixed cover (only with Background Image Header!)"
+msgstr ""
+"Imposta un'immagine della testata come cover fissa (solo con Immagine di "
+"sfondo della Testata!)"
+
+#: inc/customizer.php:144
+msgid "Footer"
+msgstr "Piè di Pagina"
+
+#: inc/customizer.php:156
+msgid "Site Info"
+msgstr "Info del Sito"
+
+#: inc/customizer.php:157
+msgid ""
+"Allowed tags: strong, em. Press \"Enter\" to wrap up. Use {copy} for &copy;, "
+"{year} for current year, {blogname} for blog name."
+msgstr ""
+"Tag permessi: strong, em. Premi \"Invio\" per andare a capo. Usa {copy} per "
+"&copy;, {year} per l'anno corrente, {blogname} per il nome del blog."
+
+#: inc/customizer.php:164
+msgid "Typography"
+msgstr "Tipografia"
+
+#: inc/customizer.php:176
+msgid "Font"
+msgstr "Carattere"
+
+#: inc/customizer.php:177
+msgid ""
+"Choose your font (default: Titillium Web). Note: System Ui is the font used "
+"in the user's operating system/browser."
+msgstr ""
+"Scegli il tuo carattere (predefinito: Titillium Web). Nota: System UI è il "
+"font utilizzato nel sistema operativo/browser dell'utente."
+
+#: inc/customizer.php:293
+msgid "You can choose a number between 0 and 1. Decimal allowed."
+msgstr "Puoi scegliere un numero tra 0 e 1. I decimali sono permessi."
+
+#: inc/customizer.php:312
+msgid "Fixed Cover works only background image header!"
+msgstr ""
+"La cover fissa funziona solo se è impostata l'immagine di sfondo della "
+"testata!"
+
+#: inc/customizer.php:332
+msgid "You are trying to use an html tag not allowed!"
+msgstr "Stai cercando di usare un tag html non permesso!"
+
+#. Name of the theme
+msgid "XSimply"
+msgstr "XSimply"
+
+#. Description of the theme
+msgid ""
+"XSimply is a versatile and light theme, available in different color schemes "
+"to allow a better and effective customization: light (white), metal (gray), "
+"sea (blue), night (black). The combination of colors combined with a "
+"personalized background image can make your site unique and particular."
+msgstr ""
+"XSimply è un tema leggero e versatile, disponibile in differenti schemi di "
+"colori che permettono una migliore ed effettiva personalizzazione: chiaro "
+"(bianco), metallo (grigio), mare (blu), notte (nero). La combinazione di "
+"colori combinata con un'immagine di sfondo personalizzata può rendere il tuo "
+"sito unico e particolare."
+
+#. URI of the theme
+msgid "http://www.iljester.com/portfolio/xsimply"
+msgstr "http://www.iljester.com/portfolio/xsimply"
+
+#. Author of the theme
+msgid "Il Jester"
+msgstr "Il Jester"
+
+#. Author URI of the theme
+msgid "http://www.iljester.com"
+msgstr "http://www.iljester.com"

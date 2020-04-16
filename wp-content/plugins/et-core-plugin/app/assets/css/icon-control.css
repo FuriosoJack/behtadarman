@@ -1,0 +1,5 @@
+.elementor-control-type-etheme-icon-control .elementor-control-field {display: block; }
+.etheme-icons-wrap li {display: inline-block; }
+.etheme-icons-wrap {border: 1px solid; display: block; }
+.etheme-icons-wrap input[type=radio]{ display: none; }
+.etheme-icons-wrap label { font-family: arial; }

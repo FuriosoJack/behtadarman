@@ -1,0 +1,108 @@
+/*=======================================
+=          Mixins #mixins              =
+=======================================*/
+/* Center text vertically */
+.dokan-dashboard-content .legend table td:last-child {
+  text-align: start;
+}
+.dokan-dashboard-content .legend > div {
+  background: transparent !important;
+}
+.dokan-dashboard-content .widget-title {
+  text-transform: capitalize;
+}
+.dokan-dashboard-content #store-form .ajax_prev .dokan-btn {
+  margin-left: 10px;
+}
+.dokan-dashboard-content #payment-form .ajax_prev {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+.dokan-dashboard-content #payment-form label {
+  text-align: start;
+}
+.dokan-dashboard .dokan-dashboard-content .dokan-page-help {
+  font-style: normal;
+}
+.dokan-dashboard-content .select2-container--default.select2-container--focus .select2-selection--multiple {
+  padding: 0;
+  border-color: #e1e1e1;
+}
+.dokan-dashboard-content .select2-container--default .select2-selection--multiple .select2-selection__rendered {
+  padding: 0;
+  vertical-align: middle;
+}
+.dokan-dashboard-content .select2-container .select2-search--inline .select2-search__field {
+  margin: 0;
+}
+.dokan-product-list-inline-edit-form label {
+  text-align: start;
+}
+.dokan-product-list-inline-edit-form .dokan-inline-edit-section-title {
+  text-align: start;
+}
+.dokan-product-list-inline-edit-form fieldset {
+  padding: 10px;
+}
+.dokan-table .dokan-product-list-inline-edit-form > td {
+  padding: 15px 0 0 0;
+}
+.dokan-orders-content .dokan-orders-area ul.order-statuses-filter {
+  padding: 0;
+}
+.dokan-orders-content .dokan-orders-area .dokan-order-filter-serach {
+  padding-left: 0;
+  padding-right: 0;
+}
+button.dokan-btn.dokan-btn-default.inline-edit-cancel {
+  margin-right: 10px;
+}
+.dokan-withdraw-content .dokan-withdraw-area ul {
+  padding: 0;
+  margin-left: -5px;
+  margin-right: -5px;
+}
+input[type="submit"].dokan-btn-sm,
+a.dokan-btn-sm,
+.dokan-btn-sm {
+  padding: 9px 12px 8px;
+}
+.dokan-dashboard-content #store-form label,
+.dokan-gravatar {
+  text-align: start;
+}
+.dokan-form-horizontal label {
+  padding-left: 0;
+}
+.store-open-close select.dokan-form-control {
+  padding: 0 2.9em 0 1em;
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAABmJLR0QA/wD/AP+gvaeTAAAEm0lEQVR4nO3cWaiUZRgH8N85armShlgWLZS0gLQgIVm0UGQgtEBKe110IdSFF0FXhtCNChERFLSQFBUltEC0ZxS0E7QZ0UJEG6aFltmiOV28c3DpvO+cZWa+c+Z7fjAo58x87/99HuSceb9nJIQQQgghhBBCCCGEEEIIIYQQQgghhBBCO01o/nkYrsRp+B7bK0tUL7NwFRZhM7bCOfgdjebjl+bXQmediy321H07ToeP9vriwGMHFlcSsx4ulGq8f92fhm2DfKOBv3BRBWF73cVSbQer+cvwbOabDfyDZV2P3LuWSTXN1ftGOBY/Fp60C9d0OXgvulaqZa7OD6Nv4MlH4svCk3djRfey95wVUg1z9b3TXs0YcCg2Fl7UwMrOZ+85tyrX9HaDNGPAIfi4xQVWdy57z1mtXMtVQ7nILLzX4kJr25u7J61VruEtw7nYTLzd4oL3oL892XtKv1Sb0s/jm0dy4enYULhwA/eKpuytH/fJ1+tfLB/NAlOlNyulpjyKiaNZpEdMxGPKzbihHQtNwQuFhRp4ApPasdg4NUmqQa4+O3F5Oxc8AE8WFmxI7/gnt3PRcWKy1qcdSzux8CSsLyzckP4lTenE4mPUdLwmX48/saSTASZgXSFAA69jRidDjBEz8IZ8HXZIp7od14/7C0Ea0vuYg7sRpiIH4335/f+Gs7oZqE86fyk15QPM7maoLpkt7S237204o4pgfdI5TKkpGzG3inAdMhefye93CxZUlq5plXJTPsfhVYVro8OlveT2+TNOqSzdfm5Rbso3OKaydKN3jLSH3P5+wAmVpcu4WfnM/1vMqyzdyM2Tsuf29R2OqyxdC8ulI4Jc+J8wv7J0wzdfypzbz1c4qrJ0Q3SDclM24aTK0g3dyVLW3D6+wBGVpRumK6Tzm9xmfsXCytK1tlDKmMv/iXQzb1xZqjxhsVWa2BtrFknZcrk/xJzK0o3SEuk8J7e57TivsnT/d76UKZf3Henm3biWm9IbePyBCypLt8di5Zxv4qDK0rXZ2dL5Tm6zf+OSytJxaTNDLt8rmFZZug45U35stSH9vLmsglxXK/8C8qJ057QnLbDvxPf+j124rot5rleeJnxKujnX006VPguRK8JuzRnXDrtJ+WRhvRrdlj5ROv8pNaWTo6utRjvX2fNhpto4XjoHyhWloTOjqytbrPmAGo82HY2vlQvUztHVVqOdgw49102ryfsG1rRhnVajncWh57o5FJ8qF+xuIytYf/O1pWuvGlX6HjXH4J933Psx3NHV/uZrStcc1tBz3czCu8oFfMTQRlcnSmOupd/kRjT0XDcz8ZZyUx5Xfo/QarRz1EPPdTMNryo3JTe62mq0s21Dz3UzFS8pN+V5+46uthoM3yndPAsjdCCeUW7KwOjqjObfc8/r2NBz3UzBc8pN2aA89Byft2+zCdLnuEtNyT26NvRcNxPwoOE1o+tDz3XTh7sMrRmVDT3XTR/uUG7GmBh6rpvbDN6MMTX0XDdr7NuMzdIdyXGrF46bF0u/RW3CQ9L/bBRCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYD/AI5xCCmGn2cGAAAAAElFTkSuQmCC);
+}
+.dokan-settings-content .dokan-settings-area .dokan-banner {
+  border-color: #e1e1e1;
+}
+.dokan-panel-default > .dokan-panel-heading {
+  background: transparent;
+}
+.dokan-form-group label:empty {
+  display: none;
+}
+dt.variation-Vendor:after {
+  content: ':';
+  margin-left: 2px;
+}
+.dokan-form-group #order_date_filter {
+  padding-bottom: 0 !important;
+  vertical-align: middle;
+  text-overflow: ellipsis;
+}
+.media-frame select {
+  height: auto;
+  padding: 0 2.9em 0 1em;
+}
+.dokan-single-store .profile-frame .profile-info-box .profile-info-summery-wrapper .profile-info-summery .profile-info .dokan-store-info:before,
+.dokan-single-store .profile-frame .profile-info-box .profile-info-summery-wrapper .profile-info-summery .profile-info .dokan-store-info:after {
+  clear: both;
+  content: '';
+  display: table;
+}
